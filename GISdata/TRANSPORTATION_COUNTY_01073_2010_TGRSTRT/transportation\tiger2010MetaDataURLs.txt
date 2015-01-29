@@ -1,0 +1,6 @@
+MTFCC attribute filed code definitions:
+http://www.census.gov/rdo/pdf/AttD_MAF_TIGER_Feature_Classification_Codes.pdf
+
+TGRSHP10SF1AA.pdf complete attribute record layout and field definitions:
+http://www.census.gov/geo/maps-data/data/pdfs/tiger/tgrshp2010/TGRSHP10SF1AA.pdf
+

@@ -1,0 +1,544 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon-abstract:before {
+	content: "\e000";
+}
+.flaticon-administration:before {
+	content: "\e001";
+}
+.flaticon-ad:before {
+	content: "\e002";
+}
+.flaticon-aeroplane:before {
+	content: "\e003";
+}
+.flaticon-anchor5:before {
+	content: "\e004";
+}
+.flaticon-animal1:before {
+	content: "\e005";
+}
+.flaticon-archery:before {
+	content: "\e006";
+}
+.flaticon-athlete:before {
+	content: "\e007";
+}
+.flaticon-audition:before {
+	content: "\e008";
+}
+.flaticon-bag3:before {
+	content: "\e009";
+}
+.flaticon-balance1:before {
+	content: "\e00a";
+}
+.flaticon-batter:before {
+	content: "\e00b";
+}
+.flaticon-bicycle4:before {
+	content: "\e00c";
+}
+.flaticon-binoculars:before {
+	content: "\e00d";
+}
+.flaticon-black36:before {
+	content: "\e00e";
+}
+.flaticon-black37:before {
+	content: "\e00f";
+}
+.flaticon-black46:before {
+	content: "\e010";
+}
+.flaticon-black47:before {
+	content: "\e011";
+}
+.flaticon-black48:before {
+	content: "\e012";
+}
+.flaticon-black62:before {
+	content: "\e013";
+}
+.flaticon-black71:before {
+	content: "\e014";
+}
+.flaticon-boat2:before {
+	content: "\e015";
+}
+.flaticon-boat3:before {
+	content: "\e016";
+}
+.flaticon-boat4:before {
+	content: "\e017";
+}
+.flaticon-bowling2:before {
+	content: "\e018";
+}
+.flaticon-braille:before {
+	content: "\e019";
+}
+.flaticon-buy:before {
+	content: "\e01a";
+}
+.flaticon-calculator7:before {
+	content: "\e01b";
+}
+.flaticon-camera14:before {
+	content: "\e01c";
+}
+.flaticon-camping:before {
+	content: "\e01d";
+}
+.flaticon-canoeing:before {
+	content: "\e01e";
+}
+.flaticon-canoe:before {
+	content: "\e01f";
+}
+.flaticon-car10:before {
+	content: "\e020";
+}
+.flaticon-car11:before {
+	content: "\e021";
+}
+.flaticon-car8:before {
+	content: "\e022";
+}
+.flaticon-carousel:before {
+	content: "\e023";
+}
+.flaticon-cart2:before {
+	content: "\e024";
+}
+.flaticon-church4:before {
+	content: "\e025";
+}
+.flaticon-city5:before {
+	content: "\e026";
+}
+.flaticon-climb:before {
+	content: "\e027";
+}
+.flaticon-close10:before {
+	content: "\e028";
+}
+.flaticon-closed3:before {
+	content: "\e029";
+}
+.flaticon-closed7:before {
+	content: "\e02a";
+}
+.flaticon-color1:before {
+	content: "\e02b";
+}
+.flaticon-communication2:before {
+	content: "\e02c";
+}
+.flaticon-compass4:before {
+	content: "\e02d";
+}
+.flaticon-creative2:before {
+	content: "\e02e";
+}
+.flaticon-cross7:before {
+	content: "\e02f";
+}
+.flaticon-cube:before {
+	content: "\e030";
+}
+.flaticon-cursor6:before {
+	content: "\e031";
+}
+.flaticon-cycling:before {
+	content: "\e032";
+}
+.flaticon-dark12:before {
+	content: "\e033";
+}
+.flaticon-dark13:before {
+	content: "\e034";
+}
+.flaticon-dark21:before {
+	content: "\e035";
+}
+.flaticon-decline:before {
+	content: "\e036";
+}
+.flaticon-diamond1:before {
+	content: "\e037";
+}
+.flaticon-disability1:before {
+	content: "\e038";
+}
+.flaticon-diving:before {
+	content: "\e039";
+}
+.flaticon-dollar3:before {
+	content: "\e03a";
+}
+.flaticon-dollar4:before {
+	content: "\e03b";
+}
+.flaticon-door2:before {
+	content: "\e03c";
+}
+.flaticon-dryer:before {
+	content: "\e03d";
+}
+.flaticon-escalation:before {
+	content: "\e03e";
+}
+.flaticon-exercise2:before {
+	content: "\e03f";
+}
+.flaticon-exercise:before {
+	content: "\e040";
+}
+.flaticon-fireguard:before {
+	content: "\e041";
+}
+.flaticon-fish3:before {
+	content: "\e042";
+}
+.flaticon-fish4:before {
+	content: "\e043";
+}
+.flaticon-fishing:before {
+	content: "\e044";
+}
+.flaticon-flower1:before {
+	content: "\e045";
+}
+.flaticon-flying3:before {
+	content: "\e046";
+}
+.flaticon-footprint1:before {
+	content: "\e047";
+}
+.flaticon-frontal4:before {
+	content: "\e048";
+}
+.flaticon-fuel3:before {
+	content: "\e049";
+}
+.flaticon-furnishing:before {
+	content: "\e04a";
+}
+.flaticon-giraffe:before {
+	content: "\e04b";
+}
+.flaticon-go4:before {
+	content: "\e04c";
+}
+.flaticon-golf3:before {
+	content: "\e04d";
+}
+.flaticon-graduated:before {
+	content: "\e04e";
+}
+.flaticon-half1:before {
+	content: "\e04f";
+}
+.flaticon-hammer:before {
+	content: "\e050";
+}
+.flaticon-hard:before {
+	content: "\e051";
+}
+.flaticon-hiking:before {
+	content: "\e052";
+}
+.flaticon-hook:before {
+	content: "\e053";
+}
+.flaticon-house2:before {
+	content: "\e054";
+}
+.flaticon-house6:before {
+	content: "\e055";
+}
+.flaticon-h:before {
+	content: "\e056";
+}
+.flaticon-interface11:before {
+	content: "\e057";
+}
+.flaticon-judge:before {
+	content: "\e058";
+}
+.flaticon-jump:before {
+	content: "\e059";
+}
+.flaticon-language:before {
+	content: "\e05a";
+}
+.flaticon-line3:before {
+	content: "\e05b";
+}
+.flaticon-line5:before {
+	content: "\e05c";
+}
+.flaticon-line7:before {
+	content: "\e05d";
+}
+.flaticon-list9:before {
+	content: "\e05e";
+}
+.flaticon-little25:before {
+	content: "\e05f";
+}
+.flaticon-lock6:before {
+	content: "\e060";
+}
+.flaticon-lunchbox:before {
+	content: "\e061";
+}
+.flaticon-man14:before {
+	content: "\e062";
+}
+.flaticon-man19:before {
+	content: "\e063";
+}
+.flaticon-map6:before {
+	content: "\e064";
+}
+.flaticon-maps:before {
+	content: "\e065";
+}
+.flaticon-medical2:before {
+	content: "\e066";
+}
+.flaticon-medic:before {
+	content: "\e067";
+}
+.flaticon-monumental:before {
+	content: "\e068";
+}
+.flaticon-moon3:before {
+	content: "\e069";
+}
+.flaticon-motorbike1:before {
+	content: "\e06a";
+}
+.flaticon-motorcyclist:before {
+	content: "\e06b";
+}
+.flaticon-oc:before {
+	content: "\e06c";
+}
+.flaticon-om:before {
+	content: "\e06d";
+}
+.flaticon-paint5:before {
+	content: "\e06e";
+}
+.flaticon-person14:before {
+	content: "\e06f";
+}
+.flaticon-person1:before {
+	content: "\e070";
+}
+.flaticon-person5:before {
+	content: "\e071";
+}
+.flaticon-person6:before {
+	content: "\e072";
+}
+.flaticon-personal:before {
+	content: "\e073";
+}
+.flaticon-pharmacy2:before {
+	content: "\e074";
+}
+.flaticon-pipe:before {
+	content: "\e075";
+}
+.flaticon-pisces:before {
+	content: "\e076";
+}
+.flaticon-plate1:before {
+	content: "\e077";
+}
+.flaticon-plate2:before {
+	content: "\e078";
+}
+.flaticon-plug4:before {
+	content: "\e079";
+}
+.flaticon-power7:before {
+	content: "\e07a";
+}
+.flaticon-road4:before {
+	content: "\e07b";
+}
+.flaticon-roof:before {
+	content: "\e07c";
+}
+.flaticon-scissors1:before {
+	content: "\e07d";
+}
+.flaticon-screen4:before {
+	content: "\e07e";
+}
+.flaticon-shield2:before {
+	content: "\e07f";
+}
+.flaticon-shield3:before {
+	content: "\e080";
+}
+.flaticon-shopper:before {
+	content: "\e081";
+}
+.flaticon-side3:before {
+	content: "\e082";
+}
+.flaticon-side4:before {
+	content: "\e083";
+}
+.flaticon-side:before {
+	content: "\e084";
+}
+.flaticon-silhouette2:before {
+	content: "\e085";
+}
+.flaticon-silhouette3:before {
+	content: "\e086";
+}
+.flaticon-silhouette4:before {
+	content: "\e087";
+}
+.flaticon-silver:before {
+	content: "\e088";
+}
+.flaticon-sitting:before {
+	content: "\e089";
+}
+.flaticon-skating1:before {
+	content: "\e08a";
+}
+.flaticon-skating:before {
+	content: "\e08b";
+}
+.flaticon-ski2:before {
+	content: "\e08c";
+}
+.flaticon-snack:before {
+	content: "\e08d";
+}
+.flaticon-snowboarding:before {
+	content: "\e08e";
+}
+.flaticon-snowflake:before {
+	content: "\e08f";
+}
+.flaticon-snow:before {
+	content: "\e090";
+}
+.flaticon-sportive6:before {
+	content: "\e091";
+}
+.flaticon-spyhole:before {
+	content: "\e092";
+}
+.flaticon-star10:before {
+	content: "\e093";
+}
+.flaticon-suitcase3:before {
+	content: "\e094";
+}
+.flaticon-surf:before {
+	content: "\e095";
+}
+.flaticon-swim1:before {
+	content: "\e096";
+}
+.flaticon-swimming:before {
+	content: "\e097";
+}
+.flaticon-swing:before {
+	content: "\e098";
+}
+.flaticon-table1:before {
+	content: "\e099";
+}
+.flaticon-teacherreading:before {
+	content: "\e09a";
+}
+.flaticon-temple1:before {
+	content: "\e09b";
+}
+.flaticon-tennis4:before {
+	content: "\e09c";
+}
+.flaticon-tennis5:before {
+	content: "\e09d";
+}
+.flaticon-toilet1:before {
+	content: "\e09e";
+}
+.flaticon-toilet:before {
+	content: "\e09f";
+}
+.flaticon-tooth:before {
+	content: "\e0a0";
+}
+.flaticon-town1:before {
+	content: "\e0a1";
+}
+.flaticon-train5:before {
+	content: "\e0a2";
+}
+.flaticon-train6:before {
+	content: "\e0a3";
+}
+.flaticon-train7:before {
+	content: "\e0a4";
+}
+.flaticon-tshirt:before {
+	content: "\e0a5";
+}
+.flaticon-two30:before {
+	content: "\e0a6";
+}
+.flaticon-two31:before {
+	content: "\e0a7";
+}
+.flaticon-two32:before {
+	content: "\e0a8";
+}
+.flaticon-viewer:before {
+	content: "\e0a9";
+}
+.flaticon-walking1:before {
+	content: "\e0aa";
+}
+.flaticon-windsurf:before {
+	content: "\e0ab";
+}
+.flaticon-winning:before {
+	content: "\e0ac";
+}
+.flaticon-young:before {
+	content: "\e0ad";
+}
+.flaticon-zoom13:before {
+	content: "\e0ae";
+}
+.flaticon-zoom15:before {
+	content: "\e0af";
+}
