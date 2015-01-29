@@ -1,4 +1,8 @@
 #files larger than 50MB
 /GISdata/OpenStreetMapData.osm
+<<<<<<< HEAD
 /GISdata/OpenStreetMapData.osm.db
 /GISdata/PointsOfInterest/Polygons.dbf
+=======
+/GISdata/OpenStreetMapData.osm.db
+>>>>>>> 74ee354a1f0b3ab0ea49eb915bd6a71e9d645414
