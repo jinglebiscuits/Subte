@@ -1,0 +1,1727 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+R1,WD,1 SouthBess1,Central Station,1,518
+R1,WD,1 SouthBess2,Walmart,,1 Walmart
+R1,WD,1 SouthBessin2,Central Station,,Pipe Shop IB
+R1,WD,1 SouthBess3,Soc. Security Bldg,,1 SouthBess
+R1,WD,1 SouthBessin3,Central Station,,1 SouthBessIB
+R1,WD,1 SouthBess4,Walmart,,1 Walmart
+R1,WD,1 SouthBessin4,Central Station,,1 SouthBessIB
+R1,WD,1 SouthBess5,Soc. Security Bldg,,1 SouthBess
+R1,WD,1 SouthBess5A,Central Station,,1 SouthBessIB
+R1,WD,1 SouthBess6,West Lake Mall,,Pipe Shop OB
+R1,WD,1 SouthBess6in,Central Station,,UABW
+R1,WD,1 SouthBess7,Walmart,,1 Walmart
+R1,WD,1 SouthBess7in,Central Station,,1 SouthBessIB
+R1,WD,1 SouthBess8,West Lake Mall,,Pipe Shop OB
+R1,WD,1 SouthBess8in,Central Station,,UABW
+R1,WD,1 SouthBess9,Walmart,,1 Walmart
+R1,WD,1 SouthBess9in,Central Station,,1 SouthBessIB
+R1,WD,1 SouthBess11,Central Station,1,Pipe Shop IB
+R1,WD,1 SouthBess12,Walmart,,1 Walmart
+R1,WD,1 SouthBess12in,Central Station,,1 SouthBessIB
+R1,WD,1 SouthBess13,Soc. Security Bldg,,1 SouthBess
+R1,WD,1 SouthBess13in,Central Station,,1 SouthBessIB
+R1,WD,1 SouthBess14,Soc. Security Bldg,,1 SouthBess
+R1,WD,1 SouthBess14in,Central Station,,1 SouthBessIB
+R1,WD,1 SouthBess15,West Lake Mall,,Pipe Shop OB
+R1,WD,1 SouthBess15in,Central Station,,UABW
+R1,WD,1 SouthBess16,Soc. Security Bldg,,1 SouthBess
+R1,WD,1 SouthBess16in,Central Station,,1 SouthBessIB
+R1,WD,1 SouthBess17,Soc. Security Bldg,,1 SouthBess
+R1,WD,1 SouthBess17in,Central Station,,1 SouthBessIB
+R1,WD,1 SouthBess18,West Lake Mall,,Pipe Shop OB
+R1,WD,1 SouthBess18in,Central Station,,UABW
+R1,WD,1 SouthBess19,Walmart,,1 Walmart
+R1,WD,1 SouthBess19in,Princeton,,BMCP
+R1,WE,1sat1,Central Station,1,518
+R1,WE,1sat2,Bessemer Library,,519
+R1,WE,1sat2in,Central Station,,UABPS
+R1,WE,1sat3,Walmart,,1 Walmart
+R1,WE,1sat3in,Central Station,,1 SouthBessIB
+R1,WE,1sat4,Walmart,,1 Walmart
+R1,WE,1sat4in,Central Station,,1 SouthBessIB
+R1,WE,1sat5,Walmart,,1 Walmart
+R1,WE,1sat5in,Central Station,,1 SouthBessIB
+R1,WE,1sat6,Walmart,,1 Walmart
+R1,WE,1sat6in,Central Station,,1 SouthBessIB
+R1,WE,1sat7,Walmart,,1 Walmart
+R1,WE,1sat7in,Central Station,,1 SouthBessIB
+R1,WE,1sat8,Walmart,,1 Walmart
+R1,WE,1sat8in,Central Station,,1 SouthBessIB
+R1,WE,1sat9,Central Station,1,UABPS
+R1,WE,1sat10,Walmart,,1 Walmart
+R1,WE,1sat10in,Central Station,,1 SouthBessIB
+R1,WE,1sat11,Walmart,,1 Walmart
+R1,WE,1sat11in,Central Station,,1 SouthBessIB
+R1,WE,1sat12,Walmart,,1 Walmart
+R1,WE,1sat12in,Central Station,,1 SouthBessIB
+R1,WE,1sat13,West Lake Mall,,Pipe Shop OB
+R1,WE,1sat13in,Central Station,,UABW
+R1,WE,1sat14,West Lake Mall,,Pipe Shop OB
+R1,WE,1sat14in,Central Station,,UABW
+R1,WE,1sat15,Walmart,,1 Walmart
+R1,WE,1sat15in,Central Station,,1 SouthBessIB
+R1,WE,1sat16,Bessemer Library,0,519
+R1Ex,WD,1ExoutA,Jefferson & 40th St,,1Ex
+R1Ex,WD,1ExinA,Central Station,,1Exi
+R1Ex,WD,1Exout1,Jefferson & 40th St,,1Ex
+R1Ex,WD,1Exin1,Central Station,,1Exi
+R1Ex,WD,1Exout2,Jefferson & 40th St,,1Ex
+R1Ex,WD,1Exin2,Central Station,,1Exi
+R1Ex,WD,1Exout3,Jefferson & 40th St,,1Ex
+R1Ex,WD,1Exin3,Central Station,,1Exi
+R1Ex,WD,1Exout4,Jefferson & 40th St,,1Ex
+R1Ex,WD,1Exin4,Central Station,,1Exi
+R1Ex,WD,1Exout5,Jefferson & 40th St,,1Ex
+R1Ex,WD,1Exin5,Central Station,,1Exi
+R1Ex,WD,1Exout6,Jefferson & 40th St,,1Ex
+R1Ex,WD,1Exin6,Central Station,,1Exi
+R1Ex,WD,1Exout7,Jefferson & 40th St,,1Ex
+R1Ex,WD,1Exin7,Central Station,,1Exi
+R1Ex,WD,1Exout8,Jefferson & 40th St,,1Ex
+R1Ex,WD,1Exin8,Central Station,,1Exi
+R1Ex,WD,1Exout9,Jefferson & 40th St,,1Ex
+R1Ex,WD,1Exin9,Central Station,,1Exi
+R1Ex,WD,1Exout10,Jefferson & 40th St,,1Ex
+R1Ex,WD,1Exin10,Central Station,,1Exi
+R1Ex,WD,1Exout11,Jefferson & 40th St,,1Ex
+R1Ex,WD,1Exin11,Central Station,,1Exi
+R1Ex,WD,1Exout12,Jefferson & 40th St,,1Ex
+R1Ex,WD,1Exin12,Central Station,,1Exi
+R3,WD,3 JefferWen1,Central Station,1,3ib
+R3,WD,3 JefferWen2,Wilson & Howard,,3ob
+R3,WD,3 JefferWen2in,Central Station,,3ib
+R3,WD,3 JefferWen3,Wilson & Howard,,3ob
+R3,WD,3 JefferWen3in,Central Station,,3ib
+R3,WD,3 JefferWen4,Wilson & Howard,,3ob
+R3,WD,3 JefferWen4in,Central Station,,3ib
+R3,WD,3 JefferWen5,Wilson & Howard,,3ob
+R3,WD,3 JefferWen5in,Central Station,,3ib
+R3,WD,3 JefferWen6,Wilson & Howard,,3ob
+R3,WD,3 JefferWen6in,Central Station,,3ib
+R3,WD,3 JefferWen7,Wilson & Howard,0,3ob
+R3,WD,3 JefferWen8,Wilson & Howard,,3ob
+R3,WD,3 JefferWen8in,Central Station,,3ib
+R3,WD,3 JefferWen9,Wilson & Howard,,3ob
+R3,WD,3 JefferWen9in,Central Station,,3ib
+R3,WD,3 JefferWen10,Wilson & Howard,,3ob
+R3,WD,3 JefferWen10in,Central Station,,3ib
+R3,WD,3 JefferWen11,Wilson & Howard,,3ob
+R3,WD,3 JefferWen11in,Central Station,,3ib
+R3,WD,3 JefferWen12,Wilson & Howard,,3ob
+R3,WD,3 JefferWen12in,Central Station,,3ib
+R3,WD,3 JefferWen13,Wilson & Howard,,3ob
+R3,WD,3 JefferWen13in,Central Station,,3ib
+R3,WD,3 JefferWen14,Wilson & Howard,,3ob
+R3,WD,3 JefferWen14in,Central Station,,3ib
+R3,WD,3 JefferWen16,Wilson & Howard,,3ob
+R3,WD,3 JefferWen16in,Central Station,,3ib
+R3,WD,3 JefferWen17,Wilson & Howard,,3ob
+R3,WD,3 JefferWen17in,Central Station,,3ib
+R3,WD,3 JefferWen18,Wilson & Howard,,3ob
+R3,WD,3 JefferWen18in,Central Station,,3ib
+R3,WD,3 JefferWen19,Wilson & Howard,,3ob
+R3,WD,3 JefferWen19in,Central Station,,3ib
+R3,WD,3 JefferWen20,Wilson & Howard,,3ob
+R3,WD,3 JefferWen20in,Central Station,,3ib
+R3,WE,3sat1,Central Station,1,3ib
+R3,WE,3sat2,Wilson & Howard,,3ob
+R3,WE,3sat2in,Central Station,,3ib
+R3,WE,3sat3,Wilson & Howard,,3ob
+R3,WE,3sat3in,Central Station,,3ib
+R3,WE,3sat4,Wilson & Howard,,3ob
+R3,WE,3sat4in,Central Station,,3ib
+R3,WE,3sat5,Wilson & Howard,,3ob
+R3,WE,3sat5in,Central Station,,3ib
+R3,WE,3sat6,Wilson & Howard,,3ob
+R3,WE,3sat6in,Central Station,,3ib
+R3,WE,3sat7,Wilson Rd,0,3ob
+R3,WE,3sat8,Wilson & Howard,,3ob
+R3,WE,3sat8in,Central Station,,3ib
+R3,WE,3sat9,Wilson & Howard,,3ob
+R3,WE,3sat9in,Central Station,,3ib
+R3,WE,3sat10,Wilson & Howard,,3ob
+R3,WE,3sat10in,Central Station,,3ib
+R3,WE,3sat11,Wilson & Howard,,3ob
+R3,WE,3sat11in,Central Station,,3ib
+R3,WE,3sat12,Wilson & Howard,,3ob
+R3,WE,3sat12in,Central Station,,3ib
+R3,WE,3sat13,Wilson & Howard,,3ob
+R3,WE,3sat13in,Central Station,,3ib
+R3,WE,3sat15,Wilson & Howard,,3ob
+R3,WE,3sat15in,Central Station,,3ib
+R3,WE,3sat16,Wilson & Howard,,3ob
+R3,WE,3sat16in,Central Station,,3ib
+R3,WE,3sat17,Wilson & Howard,,3ob
+R3,WE,3sat17in,Central Station,,3ib
+R3,WE,3sat18,Wilson & Howard,,3ob
+R3,WE,3sat18in,Central Station,,3ib
+R3,WE,3sat19,Wilson & Howard,,3ob
+R3,WE,3sat19in,Central Station,,3ib
+R3,WE,3sat20,Wilson & Howard,,3ob
+R3,WE,3sat20in,Central Station,,3ib
+R5,WD,5EnsleyWylam1,McDonald Chapel Rd,,501am
+R5,WD,5EnsleyWylam1in,Central Station,,5ib
+R5,WD,5EnsleyWylam2,McDonald Chapel Rd,,5ob
+R5,WD,5EnsleyWylam2in,Central Station,,5ib
+R5,WD,5EnsleyWylam3,McDonald Chapel Rd,,5ob
+R5,WD,5EnsleyWylam3in,Central Station,,5ib
+R5,WD,5EnsleyWylam4,McDonald Chapel Rd,,5ob
+R5,WD,5EnsleyWylam4in,Central Station,,5ib
+R5,WD,5EnsleyWylam5,McDonald Chapel Rd,,5ob
+R5,WD,5EnsleyWylam5in,Central Station,,5ib
+R5,WD,5EnsleyWylam6,McDonald Chapel Rd,,5ob
+R5,WD,5EnsleyWylam6in,Central Station,,5ib
+R5,WD,5EnsleyWylam7,McDonald Chapel Rd,,5ob
+R5,WD,5EnsleyWylam7in,Central Station,,5ib
+R5,WD,5EnsleyWylam8,McDonald Chapel Rd,,5ob
+R5,WD,5EnsleyWylam8in,Central Station,,5ib
+R5,WD,5EnsleyWylam9,McDonald Chapel Rd,,5ob
+R5,WD,5EnsleyWylam9in,Central Station,,5ib
+R5,WD,5EnsleyWylam10,McDonald Chapel Rd,,5ob
+R5,WD,5EnsleyWylam10in,Central Station,,5ib
+R5,WD,5EnsleyWylam11,McDonald Chapel Rd,,5ob
+R5,WD,5EnsleyWylam11in,Central Station,,5ib
+R5,WD,5EnsleyWylam12,McDonald Chapel Rd,,5ob
+R5,WD,5EnsleyWylam12in,Central Station,,5ib
+R5,WD,5EnsleyWylam13,McDonald Chapel Rd,,5ob
+R5,WD,5EnsleyWylam13in,Central Station,,5ib
+R5,WD,5EnsleyWylam14,McDonald Chapel Rd,,5ob
+R5,WD,5EnsleyWylam14in,Central Station,,5ib
+R5,WD,5EnsleyWylam15,McDonald Chapel Rd,,5ob
+R5,WD,5EnsleyWylam15in,Central Station,,5ib
+R5,WD,5EnsleyWylam16,McDonald Chapel Rd,,5ob
+R5,WD,5EnsleyWylam16in,Central Station,,5ib
+R5,WD,5EnsleyWylam17,20th Street,0,512pm
+R5,WD,5EnsleyWylam18,Seattle St,0,513pm
+R5,WE,5sat1,McDonald Chapel Rd,,501am
+R5,WE,5sat1in,Central Station,,5ib
+R5,WE,5sat2,McDonald Chapel Rd,,5ob
+R5,WE,5sat2in,Central Station,,5ib
+R5,WE,5sat3,McDonald Chapel Rd,,5ob
+R5,WE,5sat3in,Central Station,,5ib
+R5,WE,5sat4,McDonald Chapel Rd,,5ob
+R5,WE,5sat4in,Central Station,,5ib
+R5,WE,5sat5,McDonald Chapel Rd,,5ob
+R5,WE,5sat5in,Central Station,,5ib
+R5,WE,5sat6,McDonald Chapel Rd,,5ob
+R5,WE,5sat6in,Central Station,,5ib
+R5,WE,5sat7,McDonald Chapel Rd,,5ob
+R5,WE,5sat7in,Central Station,,5ib
+R5,WE,5sat8,McDonald Chapel Rd,,5ob
+R5,WE,5sat8in,Central Station,,5ib
+R5,WE,5sat9,McDonald Chapel Rd,,5ob
+R5,WE,5sat9in,Central Station,,5ib
+R5,WE,5sat10,Seattle St,0,513pm
+R6,WD,6 Pratt-Ensley1,Central Station,1,6ib
+R6,WD,6 Pratt-Ensley2,Cherry Ave,,6cherryob
+R6,WD,6 Pratt-Ensley2in,Central Station,,6cherryib
+R6,WD,6 Pratt-Ensley3,Cherry Ave,,6cherryob
+R6,WD,6 Pratt-Ensley3in,Central Station,,6cherryib
+R6,WD,6 Pratt-Ensley4,18th Street,,6ob
+R6,WD,6 Pratt-Ensley4in,Central Station,,6ib
+R6,WD,6 Pratt-Ensley5,18th Street,,6ob
+R6,WD,6 Pratt-Ensley5in,Central Station,,6ib
+R6,WD,6 Pratt-Ensley6,18th Street,,6ob
+R6,WD,6 Pratt-Ensley6in,Central Station,,6ib
+R6,WD,6 Pratt-Ensley7,18th Street,,6ob
+R6,WD,6 Pratt-Ensley7in,Central Station,,6ib
+R6,WD,6 Pratt-Ensley8,Central Station,1,6ib
+R6,WD,6 Pratt-Ensley9,18th Street,,6ob
+R6,WD,6 Pratt-Ensley9in,Central Station,,6ib
+R6,WD,6 Pratt-Ensley10,18th Street,,6ob
+R6,WD,6 Pratt-Ensley10in,Central Station,,6ib
+R6,WD,6 Pratt-Ensley11,Avenue F,0,6cherryob
+R6,WD,6 Pratt-Ensley11A,Central Station,1,6cherryib
+R6,WD,6 Pratt-Ensley12,Cherry Ave,,6cherryob
+R6,WD,6 Pratt-Ensley12in,Central Station,,6cherryib
+R6,WD,6 Pratt-Ensley13,18th Street,,6ob
+R6,WD,6 Pratt-Ensley13in,Central Station,,6ib
+R6,WD,6 Pratt-Ensley14,18th Street,,6ob
+R6,WD,6 Pratt-Ensley14in,Center St,,613pm
+R6,WD,6 Pratt-Ensley15,Central Station,1,6ib
+R6,WD,6 Pratt-Ensley16,18th Street,,6ob
+R6,WD,6 Pratt-Ensley16in,Central Station,,6ib
+R6,WD,6 Pratt-Ensley17,Cherry Ave,,6cherryob
+R6,WD,6 Pratt-Ensley17in,Central Station,,6cherryib
+R6,WD,6 Pratt-Ensley18,Cherry Ave,,6cherryob
+R6,WD,6 Pratt-Ensley18in,Central Station,,6cherryib
+R6,WD,6 Pratt-Ensley19,18th Street,,6ob
+R6,WD,6 Pratt-Ensley19in,Central Station,,6ib
+R6,WD,6 Pratt-Ensley20,Cherry Ave,,6cherryob
+R6,WD,6 Pratt-Ensley20in,Central Station,,6cherryib
+R6,WD,6 Pratt-Ensley21,Cherry Ave,,6cherryob
+R6,WD,6 Pratt-Ensley21in,Central Station,,6cherryib
+R6,WD,6 Pratt-Ensley22,18th Street,,6ob
+R6,WD,6 Pratt-Ensley22in,Central Station,,6ib
+R6,WD,6 Pratt-Ensley23,Cherry Ave,,6cherryob
+R6,WD,6 Pratt-Ensley23in,Central Station,,6cherryib
+R6,WD,6 Pratt-Ensley24,18th Street,,6ob
+R6,WD,6 Pratt-Ensley24in,Central Station,,6ib
+R6,WD,6 Pratt-Ensley25,18th Street,,6ob
+R6,WD,6 Pratt-Ensley25in,Central Station,,6cherryib
+R6,WD,6 Pratt-Ensley26,Cherry Ave,,6cherryob
+R6,WD,6 Pratt-Ensley26in,Central Station,,6cherryib
+R6,WE,6sat1,Central Station,1,6ib
+R6,WE,6sat2,18th Street,,6ob
+R6,WE,6sat2in,Central Station,,6ib
+R6,WE,6sat3,18th Street,,6ob
+R6,WE,6sat3in,Central Station,,6ib
+R6,WE,6sat4,18th Street,,6ob
+R6,WE,6sat4in,Central Station,,6ib
+R6,WE,6sat5,18th Street,,6ob
+R6,WE,6sat5in,Central Station,,6ib
+R6,WE,6sat6,18th Street,,6ob
+R6,WE,6sat6in,Central Station,,6ib
+R6,WE,6sat7,Ave F Ensley,0,6ob
+R6,WE,6sat8,Central Station,1,6ib
+R6,WE,6sat9,18th Street,,6ob
+R6,WE,6sat9in,Central Station,,6ib
+R6,WE,6sat10,18th Street,,6ob
+R6,WE,6sat10in,Central Station,,6ib
+R6,WE,6sat11,18th Street,,6ob
+R6,WE,6sat11in,Central Station,,6ib
+R6,WE,6sat12,18th Street,,6ob
+R6,WE,6sat12in,Central Station,,6ib
+R6,WE,6sat13,18th Street,,6ob
+R6,WE,6sat13in,Central Station,,6ib
+R6,WE,6sat14,18th Street,,6ob
+R6,WE,6sat14in,Central Station,,6ib
+R6,WE,6sat15,18th Street,,6ob
+R6,WE,6sat15in,Central Station,,6ib
+R6,WE,6sat16,18th Street,,6ob
+R6,WE,6sat16in,Central Station,,6ib
+R6,WE,6sat17,18th Street,,6ob
+R6,WE,6sat17in,Central Station,,6ib
+R6,WE,6sat18,18th Street,,6ob
+R6,WE,6sat18in,Central Station,,6ib
+R6,WE,6sat19,18th Street,,6ob
+R6,WE,6sat19in,Central Station,,6ib
+R8,WD,8 Sixthgold1,Central Station,1,8ibAM
+R8,WD,8 Sixthgold2,2nd Ave Goldwire,,8obAM
+R8,WD,8 Sixthgold2in,Central Station,,8ibAM
+R8,WD,8 Sixthgold3,2nd Ave Goldwire,,8obAM
+R8,WD,8 Sixthgold3in,Central Station,,8ibAM
+R8,WD,8 Sixthgold4,1st Ave Goldwire,,8obPM
+R8,WD,8 Sixthgold4in,Central Station,,8ibPM
+R8,WD,8 Sixthgold5,1st Ave Goldwire,,8obPM
+R8,WD,8 Sixthgold5in,Central Station,,8ibPM
+R8,WD,8 Sixthgold6,1st Ave Goldwire,,8obPM
+R8,WD,8 Sixthgold6in,Central Station,,8ibPM
+R8,WD,8 Sixthgold7,1st Ave Goldwire,,8obPM
+R8,WD,8 Sixthgold7in,Central Station,,8ibPM
+R8,WD,8 Sixthgold8,2nd Ave Goldwire,,8obAM
+R8,WD,8 Sixthgold8in,Central Station,,8ibAM
+R8,WD,8 Sixthgold9,2nd Ave Goldwire,,8obAM
+R8,WD,8 Sixthgold9in,Central Station,,8ibAM
+R8,WD,8 Sixthgold10,2nd Ave Goldwire,,8obAM
+R8,WD,8 Sixthgold10in,Central Station,,8ibAM
+R8,WD,8 Sixthgold11,1st Ave Goldwire,,8obPM
+R8,WD,8 Sixthgold11in,Central Station,,8ibPM
+R8,WD,8 Sixthgold12,1st Ave Goldwire,,8obPM
+R8,WD,8 Sixthgold12in,Central Station,,8ibPM
+R8,WD,8 Sixthgold13,1st Ave Goldwire,,8obPM
+R8,WD,8 Sixthgold13in,Central Station,,8ibPM
+R8,WD,8 Sixthgold14,1st Ave Goldwire,0,8obPM
+R8,WD,8 Sixthgold15,2nd Ave Goldwire,,8obAM
+R8,WD,8 Sixthgold15in,Central Station,,8ibAM
+R8,WD,8 Sixthgold16,2nd Ave Goldwire,,8obAM
+R8,WD,8 Sixthgold16in,Central Station,,8ibAM
+R8,WD,8 Sixthgold17,2nd Ave Goldwire,,8obAM
+R8,WD,8 Sixthgold17in,Central Station,,8ibAM
+R8,WD,8 Sixthgold18,1st Ave Goldwire,,8obPM
+R8,WD,8 Sixthgold18in,Central Station,,8ibPM
+R8,WD,8 Sixthgold19,1st Ave Goldwire,,8obPM
+R8,WD,8 Sixthgold19in,Central Station,,8ibPM
+R8,WD,8 Sixthgold20,1st Ave Goldwire,,8obPM
+R8,WD,8 Sixthgold20in,Central Station,,8ibPM
+R8,WD,8 Sixthgold21,2nd Ave Goldwire,,8obAM
+R8,WD,8 Sixthgold21in,Central Station,,8ibAM
+R8,WD,8 Sixthgold22,2nd Ave Goldwire,,8obAM
+R8,WD,8 Sixthgold22in,Central Station,,8ibAM
+R8,WD,8 Sixthgold23,1st Ave Goldwire,,8obPM
+R8,WD,8 Sixthgold23in,Central Station,,8ibPM
+R8,WD,8 Sixthgold24,1st Ave Goldwire,,8obPM
+R8,WD,8 Sixthgold24in,Central Station,,8ibPM
+R8,WD,8 Sixthgold25,2nd Ave Goldwire,,8obAM
+R8,WD,8 Sixthgold25in,Central Station,,8ibAM
+R8,WD,8 Sixthgold26,2nd Ave Goldwire,,8obAM
+R8,WD,8 Sixthgold26in,Central Station,,8ibAM
+R8,WE,8sat1,Central Station,1,8ibAM
+R8,WE,8sat2,2nd Ave Goldwire,,8obAM
+R8,WE,8sat2in,Central Station,,8ibAM
+R8,WE,8sat3,2nd Ave Goldwire,,8obAM
+R8,WE,8sat3in,Central Station,,8ibAM
+R8,WE,8sat4,1st Ave Goldwire,,8obPM
+R8,WE,8sat4in,Central Station,,8ibPM
+R8,WE,8sat5,1st Ave Goldwire,,8obPM
+R8,WE,8sat5in,Central Station,,8ibPM
+R8,WE,8sat6,1st Ave Goldwire,,8obPM
+R8,WE,8sat6in,Central Station,,8ibPM
+R8,WE,8sat8,2nd Ave Goldwire,,8obAM
+R8,WE,8sat8in,Central Station,,8ibAM
+R8,WE,8sat9,2nd Ave Goldwire,,8obAM
+R8,WE,8sat9in,Central Station,,8ibAM
+R8,WE,8sat10,2nd Ave Goldwire,,8obAM
+R8,WE,8sat10in,Central Station,,8ibAM
+R8,WE,8sat11,1st Ave Goldwire,,8obPM
+R8,WE,8sat11in,Central Station,,8ibPM
+R8,WE,8sat12,1st Ave Goldwire,,8obPM
+R8,WE,8sat12in,Central Station,,8ibPM
+R8,WE,8sat13,1st Ave Goldwire,,8obPM
+R8,WE,8sat13in,Central Station,,8ibPM
+R8,WE,8sat14,2nd Ave Goldwire,,8obAM
+R8,WE,8sat14in,Central Station,,8ibAM
+R8,WE,8sat15,2nd Ave Goldwire,,8obAM
+R8,WE,8sat15in,Central Station,,8ibAM
+R8,WE,8sat16,2nd Ave Goldwire,,8obAM
+R8,WE,8sat16in,Central Station,,8ibAM
+R8,WE,8sat17,1st Ave Goldwire,,8obPM
+R8,WE,8sat17in,Central Station,,8ibPM
+R8,WE,8sat18,1st Ave Goldwire,,8obPM
+R8,WE,8sat18in,Central Station,,8ibPM
+R8,WE,8sat19,1st Ave Goldwire,,8obPM
+R8,WE,8sat19in,Central Station,,8ibPM
+R12,WD,12 Highland1,Central Station,1,12ib
+R12,WD,12 Highland2,Southside-Clairmont,,12ob
+R12,WD,12 Highland2in,Central Station,,12ib
+R12,WD,12 Highland3,Southside-Clairmont,,12ob
+R12,WD,12 Highland3in,New Pilgrim Towers,,NPTI
+R12,WD,12 Highland4,Southside-Clairmont,,12ob
+R12,WD,12 Highland4in,New Pilgrim Towers,,NPTI
+R12,WD,12 Highland5,New Pilgrim Towers,,NPTO
+R12,WD,12 Highland5in,Central Station,,12ib
+R12,WD,12 Highland6,Southside-Clairmont,,12ob
+R12,WD,12 Highland6in,Central Station,,12ib
+R12,WD,12 Highland7,Southside-Clairmont,,12ob
+R12,WD,12 Highland7in,Central Station,,12ib
+R12,WD,12 Highland8,Southside-Clairmont,,12ob
+R12,WD,12 Highland8in,Central Station,,12ib
+R12,WD,12 Highland9,Southside-Clairmont,,12ob
+R12,WD,12 Highland9in,Central Station,,12ib
+R12,WD,12 Highland10,Southside-Clairmont,,12ob
+R12,WD,12 Highland10in,Central Station,,12ib
+R12,WD,12 Highland11,Southside-Clairmont,,12ob
+R12,WD,12 Highland11in,Central Station,,12ib
+R12,WD,12 Highland12,Southside-Clairmont,,12ob
+R12,WD,12 Highland12in,Central Station,,12ib
+R12,WD,12 Highland13,New Pilgrim Towers,,NPTO
+R12,WD,12 Highland13in,Central Station,,12ib
+R12,WD,12 Highland14,Southside-Clairmont,,12ob
+R12,WD,12 Highland14in,Central Station,,12ib
+R12,WD,12 Highland15,Southside-Clairmont,,12ob
+R12,WD,12 Highland15in,Central Station,,12ib
+R12,WE,12sat1,Southside-Clairmont,,12ob
+R12,WE,12sat1in,Central Station,,12ib
+R12,WE,12sat2,New Pilgrim Towers,,NPTO
+R12,WE,12sat2in,Central Station,,12ib
+R12,WE,12sat3,New Pilgrim Towers,,NPTO
+R12,WE,12sat3in,Central Station,,12ib
+R12,WE,12sat4,Southside-Clairmont,,12ob
+R12,WE,12sat4in,New Pilgrim Towers,,NPTI
+R12,WE,12sat5,Southside-Clairmont,,12ob
+R12,WE,12sat5in,New Pilgrim Towers,,NPTI
+R12,WE,12sat6,Southside-Clairmont,,12ob
+R12,WE,12sat6in,Central Station,,12ib
+R12,WE,12sat7,Southside-Clairmont,,12ob
+R12,WE,12sat7in,Central Station,,12ib
+R14,WD,14 Palisades1,Central Station,1,14ib
+R14,WD,14 Palisades2,Barber Court,,14ob
+R14,WD,14 Palisades2in,Central Station,,14ib
+R14,WD,14 Palisades3,Barber Court,,14ob
+R14,WD,14 Palisades3in,Central Station,,14ib
+R14,WD,14 Palisades4,Barber Court,,14ob
+R14,WD,14 Palisades4in,Central Station,,14ib
+R14,WD,14 Palisades5,Barber Court,,14ob
+R14,WD,14 Palisades5in,Central Station,,14ib
+R14,WD,14 Palisades6,Barber Court,,14ob
+R14,WD,14 Palisades6in,Central Station,,14ib
+R14,WD,14 Palisades7,Barber Court,,14ob
+R14,WD,14 Palisades7in,Central Station,,14ib
+R14,WD,14 Palisades8,Barber Court,,14ob
+R14,WD,14 Palisades8in,Central Station,,14ib
+R14,WD,14 Palisades9,Palisades,,PalisadesOB
+R14,WD,14 Palisades9in,Central Station,,PalisadesIB
+R14,WD,14 Palisades10,Palisades,,PalisadesOB
+R14,WD,14 Palisades10in,Central Station,,PalisadesIB
+R14,WD,14 Palisades12,Barber Court,,14ob
+R14,WD,14 Palisades12in,Central Station,,14ib
+R14,WD,14 Palisades13,Barber Court,,14ob
+R14,WD,14 Palisades13in,Central Station,,14ib
+R14,WD,14 Palisades14,Barber Court,,14ob
+R14,WD,14 Palisades14in,Central Station,,14ib
+R14,WD,14 Palisades15,Barber Court,,14ob
+R14,WD,14 Palisades15in,Central Station,,14ib
+R14,WD,14 Palisades16,Barber Court,0,14ob
+R14,WD,14 Palisades16A,Central Station,1,14ib
+R14,WD,14 Palisades17,Barber Court,,14ob
+R14,WD,14 Palisades17in,Central Station,,14ib
+R14,WD,14 Palisades18,Barber Court,,14ob
+R14,WD,14 Palisades18in,Central Station,,14ib
+R14,WD,14 Palisades19,Barber Court,,14ob
+R14,WD,14 Palisades19in,Central Station,,14ib
+R14,WD,14 Palisades20,Barber Court,,14ob
+R14,WD,14 Palisades20in,Central Station,,14ib
+R14Ex,WD,14 Express1,Virginia College,,14 Express
+R14Ex,WD,14 Express1in,Central Station,,14 ExpressI
+R14Ex,WD,14 Express2,Virginia College,,14 Express
+R14Ex,WD,14 Express2in,Central Station,,14 ExpressI
+R14Ex,WD,14 Express3,Virginia College,,14 ExpressPM
+R14Ex,WD,14 Express3in,Central Station,,14 ExpressPMI
+R14Ex,WD,14 Express4,Virginia College,,14 ExpressPM
+R14Ex,WD,14 Express4in,Central Station,,14 ExpressPMI
+R14,WE,14sat1,Central Station,1,PalisadesIB
+R14,WE,14sat2,Virginia College,,PalisadesOB
+R14,WE,14sat2in,Central Station,,PalisadesIB
+R14,WE,14sat3,Virginia College,,PalisadesOB
+R14,WE,14sat3in,Central Station,,PalisadesIB
+R14,WE,14sat4,Virginia College,,PalisadesOB
+R14,WE,14sat4in,Central Station,,PalisadesIB
+R14,WE,14sat5,Virginia College,,PalisadesOB
+R14,WE,14sat5in,Central Station,,PalisadesIB
+R14,WE,14sat6,Virginia College,,PalisadesOB
+R14,WE,14sat6in,Central Station,,PalisadesIB
+R14,WE,14sat7,Virginia College,,PalisadesOB
+R14,WE,14sat7in,Central Station,,PalisadesIB
+R14,WE,14sat8,Virginia College,,PalisadesOB
+R14,WE,14sat8in,Central Station,,PalisadesIB
+R14,WE,14sat9,Virginia College,,PalisadesOB
+R14,WE,14sat9in,Central Station,,PalisadesIB
+R14,WE,14sat10,Virginia College,,PalisadesOB
+R14,WE,14sat10in,Central Station,,PalisadesIB
+R14,WE,14sat11,Virginia College,,PalisadesOB
+R14,WE,14sat11in,Central Station,,PalisadesIB
+R14,WE,14sat12,Virginia College,,PalisadesOB
+R14,WE,14sat12in,Central Station,,PalisadesIB
+R14,WE,14sat13,Virginia College,,PalisadesOB
+R14,WE,14sat13in,Central Station,,PalisadesIB
+R14,WE,14sat14,Virginia College,,PalisadesOB
+R14,WE,14sat14in,Central Station,,PalisadesIB
+R14,WE,14sat15,Virginia College,,PalisadesOB
+R14,WE,14sat15in,Central Station,,1431ib
+R17,WD,17 Eastwood1,Central Station,,BrusselsIB
+R17,WD,17 Eastwood2,Walmart,,17ob
+R17,WD,17 Eastwood2in,Central Station,,17ib
+R17,WD,17 Eastwood3,Walmart,,17ob
+R17,WD,17 Eastwood3in,Central Station,,17ib
+R17,WD,17 Eastwood4,Walmart,,17ob
+R17,WD,17 Eastwood4in,Central Station,,17ib
+R17,WD,17 Eastwood5,Brussels Circle,0,BrusselsOB
+R17,WD,17 Eastwood6,Walmart,,Festival IB
+R17,WD,17 Eastwood6in,Central Station,,17ib
+R17,WD,17 Eastwood7,Walmart,,17ob
+R17,WD,17 Eastwood7in,Central Station,,17ib
+R17,WD,17 Eastwood8,Walmart,,17ob
+R17,WD,17 Eastwood8in,Central Station,,17ib
+R17,WD,17 Eastwood9,Walmart,,17ob
+R17,WD,17 Eastwood9in,Central Station,,17ib
+R17,WD,17 Eastwood10,Brussels Circle,0,BrusselsOB
+R17,WD,17 Eastwood11,Central Station,,BrusselsIB
+R17,WD,17 Eastwood12,Walmart,,17ob
+R17,WD,17 Eastwood12in,Central Station,,17ib
+R17,WD,17 Eastwood13,Walmart,,17ob
+R17,WD,17 Eastwood13in,Central Station,,17ib
+R17,WD,17 Eastwood14,Walmart,,17ob
+R17,WD,17 Eastwood14in,Central Station,,17ib
+R17,WD,17 Eastwood15,Walmart,,17ob
+R17,WD,17 Eastwood15in,Central Station,,17ib
+R17,WD,17 Eastwood16,Walmart,,17ob
+R17,WD,17 Eastwood16in,Central Station,,17ib
+R17,WD,17 Eastwood17,Walmart,,17ob
+R17,WD,17 Eastwood17in,Central Station,,17ib
+R17,WD,17 Eastwood18,Walmart,,17ob
+R17,WD,17 Eastwood18in,Central Station,,17ib
+R17,WD,17 Eastwood19,Walmart,,17ob
+R17,WD,17 Eastwood19in,Central Station,,17ib
+R17,WD,17 Eastwood20,Walmart,,17ob
+R17,WD,17 Eastwood20in,Central Station,,17ib
+R17,WD,17 Eastwood21,Walmart,,17ob
+R17,WD,17 Eastwood21in,Central Station,,17ib
+R17,WD,17 Eastwood22,Walmart,,17ob
+R17,WD,17 Eastwood22in,Central Station,,17ib
+R17,WD,17 Eastwood23,Walmart,,17ob
+R17,WD,17 Eastwood23in,Central Station,,17ib
+R17,WD,17 Eastwood24,Walmart,,17ob
+R17,WD,17 Eastwood24in,Central Station,,17ib
+R17,WD,17 Eastwood25,Walmart,,17ob
+R17,WD,17 Eastwood25in,Central Station,,17ib
+R17,WD,17 Eastwood26,Walmart,,17ob
+R17,WD,17 Eastwood26in,Central Station,,17ib
+R17,WD,17 Eastwood27,Brussels Circle,0,BrusselsOB
+R17,WE,17sat1,Central Station,,BrusselsIB
+R17,WE,17sat2,Walmart,,17ob
+R17,WE,17sat2in,Central Station,,17ib
+R17,WE,17sat3,Walmart,,17ob
+R17,WE,17sat3in,Central Station,,17ib
+R17,WE,17sat4,Walmart,,17ob
+R17,WE,17sat4in,Central Station,,17ib
+R17,WE,17sat5,Walmart,0,17ob
+R17,WE,17sat6,Central Station,1,17ib
+R17,WE,17sat7,Walmart,,17ob
+R17,WE,17sat7in,Central Station,,17ib
+R17,WE,17sat8,Walmart,,17ob
+R17,WE,17sat8in,Central Station,,17ib
+R17,WE,17sat9,Walmart,,17ob
+R17,WE,17sat9in,Central Station,,17ib
+R17,WE,17sat10,Brussels Circle,0,BrusselsOB
+R17,WE,17sat11,Walmart,,17ob
+R17,WE,17sat11in,Central Station,,17ib
+R17,WE,17sat12,Walmart,,17ob
+R17,WE,17sat12in,Central Station,,17ib
+R17,WE,17sat13,Walmart,,17ob
+R17,WE,17sat13in,Central Station,,17ib
+R17,WE,17sat14,Walmart,,17ob
+R17,WE,17sat14in,Central Station,,17ib
+R17,WE,17sat15,Walmart,,17ob
+R17,WE,17sat15in,Central Station,,17ib
+R17,WE,17sat16,Walmart,,17ob
+R17,WE,17sat16in,Central Station,,17ib
+R17,WE,17sat17,Walmart,,17ob
+R17,WE,17sat17in,Central Station,,17ib
+R18,WD,18 Fountainhts1,Central Station,1,124P
+R18,WD,18 Fountainhts2,11th Ct & Bankhead,,18AMOB
+R18,WD,18 Fountainhts2in,Central Station,,18AMIB
+R18,WD,18 Fountainhts3,11th Ct & Bankhead,,18AMOB
+R18,WD,18 Fountainhts3in,Central Station,,18AMIB
+R18,WD,18 Fountainhts4,11th Ct & Bankhead,,18PMOB
+R18,WD,18 Fountainhts4in,Central Station,,18PMIB
+R18,WD,18 Fountainhts5,11th Ct & Bankhead,,18PMOB
+R18,WD,18 Fountainhts5in,Central Station,,18PMIB
+R18,WD,18 Fountainhts6,11th Ct & Bankhead,,18PMOB
+R18,WD,18 Fountainhts6in,Central Station,,18PMIB
+R18,WD,18 Fountainhts7,11th Ct & Bankhead,,18PMOB
+R18,WD,18 Fountainhts7in,Central Station,,18PMIB
+R18,WD,18 Fountainhts8,11th Ct & Bankhead,,18PMOB
+R18,WD,18 Fountainhts8in,Central Station,,18PMIB
+R18,WD,18 Fountainhts9,11th Ct & Bankhead,,18AMOB
+R18,WD,18 Fountainhts9in,Central Station,,18AMIB
+R18,WD,18 Fountainhts10,11th Ct & Bankhead,,18AMOB
+R18,WD,18 Fountainhts10in,Central Station,,18AMIB
+R18,WD,18 Fountainhts11,11th Ct & Bankhead,,18AMOB
+R18,WD,18 Fountainhts11in,Central Station,,18AMIB
+R18,WD,18 Fountainhts12,11th Ct & Bankhead,,18PMOB
+R18,WD,18 Fountainhts12in,Central Station,,18PMIB
+R18,WD,18 Fountainhts13,11th Ct & Bankhead,,18PMOB
+R18,WD,18 Fountainhts13in,Central Station,,18PMIB
+R18,WD,18 Fountainhts14,11th Ct & Bankhead,,18PMOB
+R18,WD,18 Fountainhts14in,Central Station,,18PMIB
+R18,WD,18 Fountainhts15,11th Ct & Bankhead,,18PMOB
+R18,WD,18 Fountainhts15in,Central Station,,18PMIB
+R18,WD,18 Fountainhts16,11th Ct & Bankhead,0,18PMOB
+R18,WE,18sat1,Central Station,1,124P
+R18,WE,18sat2,11th Ct & Bankhead,,18AMOB
+R18,WE,18sat2in,Central Station,,18AMIB
+R18,WE,18sat3,11th Ct & Bankhead,,18AMOB
+R18,WE,18sat3in,Central Station,,18AMIB
+R18,WE,18sat4,11th Ct & Bankhead,,18PMOB
+R18,WE,18sat4in,Central Station,,18PMIB
+R18,WE,18sat5,11th Ct & Bankhead,,18PMOB
+R18,WE,18sat5in,Central Station,,18PMIB
+R18,WE,18sat6,11th Ct & Bankhead,,18PMOB
+R18,WE,18sat6in,Central Station,,18PMIB
+R18,WE,18sat7,11th Ct & Bankhead,,18PMOB
+R18,WE,18sat7in,Central Station,,18PMIB
+R18,WE,18sat8,11th Ct & Bankhead,,18PMOB
+R18,WE,18sat8in,4th Place N,,124Psat
+R20,WD,20 Zion City1,Central Station,1,PenfieldIB
+R20,WD,20 Zion City2,Penfield,,PenfieldOB
+R20,WD,20 Zion City2in,Central Station,,PenfieldIB
+R20,WD,20 Zion City3,1st & 83rd St,,83rdOB
+R20,WD,20 Zion City3in,Central Station,,PenfieldIB
+R20,WD,20 Zion City4,1st & 83rd St,,83rdOB
+R20,WD,20 Zion City4in,Central Station,,PenfieldIB
+R20,WD,20 Zion City5,1st & 83rd St,,83rdOB
+R20,WD,20 Zion City5in,Central Station,,PenfieldIB
+R20,WD,20 Zion City6,1st & 83rd,,83rdOB
+R20,WD,20 Zion City6in,Central Station,,PenfieldIB
+R20,WD,20 Zion City7,1st & 83rd St,,83rdOB
+R20,WD,20 Zion City7in,Central Station,,PenfieldIB
+R20,WD,20 Zion City8,Penfield,,PenfieldOB
+R20,WD,20 Zion City8in,Central Station,,PenfieldIB
+R20,WD,20 Zion City9,Penfield,,PenfieldOB
+R20,WD,20 Zion City9in,Central Station,,PenfieldIB
+R20,WD,20 Zion City10,1st & 83rd St,,83rdOB
+R20,WD,20 Zion City10in,Central Station,,PenfieldIB
+R20,WD,20 Zion City11,Penfield,,PenfieldOB
+R20,WD,20 Zion City11in,Central Station,,PenfieldIB
+R20,WD,20 Zion City12,1st & 83rd St,,83rdOB
+R20,WD,20 Zion City12in,Central Station,,PenfieldIB
+R20,WD,20 Zion City13,1st & 83rd St,,83rdOB
+R20,WD,20 Zion City13in,Central Station,,PenfieldIB
+R20,WD,20 Zion City14,Penfield,,PenfieldOB
+R20,WD,20 Zion City14in,Central Station,,PenfieldIB
+R20,WD,20 Zion City15,1st & 83rd St,,83rdOB
+R20,WD,20 Zion City15in,Central Station,,PenfieldIB
+R20,WD,20 Zion City16,1st & 83rd St,,83rdOB
+R20,WD,20 Zion City16in,Central Station,,PenfieldIB
+R20,WD,20 Zion City17,1st & 83rd St,,83rdOB
+R20,WD,20 Zion City17in,Central Station,,PenfieldIB
+R20,WD,20 Zion City18,Bham Airport,,AirportOB
+R20,WD,20 Zion City18in,Central Station,,AirportIB
+R20,WD,20 Zion City19,1st & 83rd St,,83rdOB
+R20,WD,20 Zion City19in,Central Station,,PenfieldIB
+R20,WD,20 Zion City20,Bham Airport,,AirportOB
+R20,WD,20 Zion City20in,Central Station,,AirportIB
+R20,WE,20sat1,Penfield,,PenfieldOB
+R20,WE,20sat1in,Central Station,,PenfieldIB
+R20,WE,20sat2,1st & 83rd St,,83rdOB
+R20,WE,20sat2in,Central Station,,PenfieldIB
+R20,WE,20sat3,1st & 83rd St,,83rdOB
+R20,WE,20sat3in,Central Station,,PenfieldIB
+R20,WE,20sat4,1st & 83rd St,,83rdOB
+R20,WE,20sat4in,Central Station,,PenfieldIB
+R20,WE,20sat5,1st & 83rd St,,83rdOB
+R20,WE,20sat5in,Central Station,,PenfieldIB
+R20,WE,20sat6,1st & 83rd St,,83rdOB
+R20,WE,20sat6in,Central Station,,PenfieldIB
+R20,WE,20sat7,Penfield,,PenfieldOB
+R20,WE,20sat7in,Central Station,,PenfieldIB
+R20,WE,20sat8,Penfield,,PenfieldOB
+R20,WE,20sat8in,Central Station,,PenfieldIB
+R20,WE,20sat9,1st & 83rd St,,83rdOB
+R20,WE,20sat9in,Central Station,,PenfieldIB
+R22,WD,22 Tarrant1,Central Station,1,22ib
+R22,WD,22 Tarrant2,Inglenook,,22ob
+R22,WD,22 Tarrant2in,Central Station,,22ib
+R22,WD,22 Tarrant3,Inglenook,,22ob
+R22,WD,22 Tarrant3in,Central Station,,22ib
+R22,WD,22 Tarrant4,Inglenook,0,22ob
+R22,WD,22 Tarrant4A,Central Station,1,22ib
+R22,WD,22 Tarrant5,Inglenook,,22ob
+R22,WD,22 Tarrant5in,Central Station,,22ib
+R22,WD,22 Tarrant6,Inglenook,,22ob
+R22,WD,22 Tarrant6in,Central Station,,22ib
+R22,WD,22 Tarrant7,Inglenook,,22ob
+R22,WD,22 Tarrant7in,Central Station,,22ib
+R22,WD,22 Tarrant8,Inglenook,0,22ob
+R22,WD,22 Tarrant9,Jackson & Elizabeth,,TCityob
+R22,WD,22 Tarrant9in,Central Station,,TCityib
+R22,WD,22 Tarrant10,Jackson & Elizabeth,,TCityob
+R22,WD,22 Tarrant10in,Central Station,,TCityib
+R22,WD,22 Tarrant11,Jackson & Elizabeth,,TCityob
+R22,WD,22 Tarrant11in,Central Station,,TCityib
+R22,WD,22 Tarrant12,Jackson & Elizabeth,,TCityob
+R22,WD,22 Tarrant12in,Central Station,,TCityib
+R22,WD,22 Tarrant13,Jackson & Elizabeth,,TCityob
+R22,WD,22 Tarrant13in,Central Station,,TCityib
+R22,WE,22sat1,Central Station,1,22ib
+R22,WE,22sat2,Inglenook,,22ob
+R22,WE,22sat2in,Central Station,,22ib
+R22,WE,22sat3,Inglenook,,22ob
+R22,WE,22sat3in,Central Station,,22ib
+R22,WE,22sat4,Inglenook,,22ob
+R22,WE,22sat4in,Central Station,,22ib
+R22,WE,22sat5,Inglenook,,22ob
+R22,WE,22sat5in,Central Station,,22ib
+R22,WE,22sat6,Inglenook,,22ob
+R22,WE,22sat6in,Central Station,,22ib
+R22,WE,22sat7,Inglenook,,22ob
+R22,WE,22sat7in,Central Station,,22ib
+R22,WE,22sat8,Inglenook,,22ob
+R22,WE,22sat8in,Central Station,,22ib
+R22,WE,22sat9,Inglenook,,22ob
+R22,WE,22sat9in,Central Station,,22ib
+R22,WE,22sat10,Inglenook,,22ob
+R22,WE,22sat10in,Central Station,,22ib
+R22,WE,22sat11,Inglenook,,22ob
+R22,WE,22sat11in,Central Station,,22ib
+R22,WE,22sat12,Inglenook,,22ob
+R22,WE,22sat12in,Central Station,,22ib
+R22,WE,22sat13,Inglenook,,22ob
+R22,WE,22sat13in,Central Station,,22ib
+R22,WE,22sat14,Inglenook,,22ob
+R22,WE,22sat14in,Central Station,,22ib
+R22,WE,22sat15,Inglenook,,22ob
+R22,WE,22sat15in,Central Station,,22ib
+R22,WE,22sat16,Inglenook,0,22ob
+R23,WD,23 North Birmingham1,Central Station,1,23ib
+R23,WD,23 North Birmingham2,43rd & 37th,,23ob
+R23,WD,23 North Birmingham2in,Central Station,,23ib
+R23,WD,23 North Birmingham3,43rd & 37th,,23ob
+R23,WD,23 North Birmingham3in,Central Station,,23ib
+R23,WD,23 North Birmingham4,43rd & 37th,,23ob
+R23,WD,23 North Birmingham4in,Central Station,,23ib
+R23,WD,23 North Birmingham5,43rd & 37th,,23ob
+R23,WD,23 North Birmingham5in,Central Station,,23ib
+R23,WD,23 North Birmingham6,43rd & 37th,,23ob
+R23,WD,23 North Birmingham6in,Central Station,,23ib
+R23,WD,23 North Birmingham7,43rd & 37th,,23ob
+R23,WD,23 North Birmingham7in,Central Station,,23ib
+R23,WD,23 North Birmingham8,43rd & 37th,,23ob
+R23,WD,23 North Birmingham8in,Central Station,,23ib
+R23,WD,23 North Birmingham9,43rd & 37th,,23ob
+R23,WD,23 North Birmingham9in,Central Station,,23ib
+R23,WD,23 North Birmingham10,43rd & 37th,,23ob
+R23,WD,23 North Birmingham10in,Central Station,,23ib
+R23,WD,23 North Birmingham11,43rd & 37th,,23ob
+R23,WD,23 North Birmingham11in,Central Station,,23ib
+R23,WD,23 North Birmingham12,43rd & 37th,,23ob
+R23,WD,23 North Birmingham12in,Central Station,,23ib
+R23,WD,23 North Birmingham13,43rd & 37th,,23ob
+R23,WD,23 North Birmingham13in,Central Station,,23ib
+R23,WD,23 North Birmingham14,43rd & 37th,,23ob
+R23,WD,23 North Birmingham14in,Central Station,,23ib
+R23,WD,23 North Birmingham15,43rd & 37th,,23ob
+R23,WD,23 North Birmingham15in,Central Station,,23ib
+R23,WD,23 North Birmingham16,43rd Ave N,0,23ob
+R23,WD,23 North Birmingham17,Central Station,1,23ib
+R23,WD,23 North Birmingham18,43rd & 37th,,23ob
+R23,WD,23 North Birmingham18in,Central Station,,23ib
+R23,WD,23 North Birmingham19,43rd & 37th,,23ob
+R23,WD,23 North Birmingham19in,Central Station,,23ib
+R23,WD,23 North Birmingham20,43rd & 37th,,23ob
+R23,WD,23 North Birmingham20in,Central Station,,23ib
+R23,WD,23 North Birmingham21,43rd & 37th,,23ob
+R23,WD,23 North Birmingham21in,Central Station,,23ib
+R23,WD,23 North Birmingham22,43rd & 37th,,23ob
+R23,WD,23 North Birmingham22in,8th Ave N,,2312ib
+R23,WE,23sat1,Central Station,1,23ib
+R23,WE,23sat2,43rd & 37th,,23ob
+R23,WE,23sat2in,Central Station,,23ib
+R23,WE,23sat3,43rd & 37th,,23ob
+R23,WE,23sat3in,Central Station,,23ib
+R23,WE,23sat4,43rd & 37th,,23ob
+R23,WE,23sat4in,Central Station,,23ib
+R23,WE,23sat5,43rd & 37th,,23ob
+R23,WE,23sat5in,Central Station,,23ib
+R23,WE,23sat6,43rd & 37th,,23ob
+R23,WE,23sat6in,Central Station,,23ib
+R23,WE,23sat7,43rd & 37th,,23ob
+R23,WE,23sat7in,Central Station,,23ib
+R23,WE,23sat8,43rd & 37th,,23ob
+R23,WE,23sat8in,Central Station,,23ib
+R23,WE,23sat9,43rd & 37th,,23ob
+R23,WE,23sat9in,Central Station,,23ib
+R23,WE,23sat10,43rd & 37th,,23ob
+R23,WE,23sat10in,Central Station,,23ib
+R23,WE,23sat11,43rd & 37th,,23ob
+R23,WE,23sat11in,27th St N,,2331ib
+R25,WD,25 Centerpoint1,Central Station,1,25ib
+R25,WD,25 Centerpoint2,Jeff State,,25ob
+R25,WD,25 Centerpoint2in,Central Station,,25ib
+R25,WD,25 Centerpoint3,Jeff State,,25ob
+R25,WD,25 Centerpoint3in,Central Station,,25ib
+R25,WD,25 Centerpoint4,Jeff State,,25ob
+R25,WD,25 Centerpoint4in,Central Station,,25ib
+R25,WD,25 Centerpoint5,Jeff State,,25ob
+R25,WD,25 Centerpoint5in,Central Station,,25ib
+R25,WD,25 Centerpoint6,Jeff State,,25ob
+R25,WD,25 Centerpoint6in,Central Station,,25ib
+R25,WD,25 Centerpoint7,Jeff State,,25ob
+R25,WD,25 Centerpoint7in,Central Station,,25ib
+R25,WD,25 Centerpoint8,Jeff State,,25ob
+R25,WD,25 Centerpoint8in,Central Station,,25ib
+R26,WD,26 Jeff State1,JSCC,,26ob
+R26,WD,26 Jeff State1in,Central Station,,26ib
+R26,WD,26 Jeff State2,JSCC,,26ob
+R26,WD,26 Jeff State2in,Central Station,,26ib
+R26,WD,26 Jeff State3,JSCC,,26ob
+R26,WD,26 Jeff State3in,Central Station,,26ib
+R26,WD,26 Jeff State4,JSCC,,26ob
+R26,WD,26 Jeff State4in,Central Station,,26ib
+R26,WD,26 Jeff State6,JSCC,,26ob
+R26,WD,26 Jeff State6in,Central Station,,26ib
+R26,WD,26 Jeff State7,JSCC,,26ob
+R26,WD,26 Jeff State7in,Central Station,,26ib
+R26,WD,26 Jeff State8,JSCC,,26ob
+R26,WD,26 Jeff State8in,Central Station,,26ib
+R26,WD,26 Jeff State9,JSCC,0,26ob
+R26,WE,26 Jefferson State1,Central Station,1,26ib
+R26,WE,26 Jefferson State2,JSCC,,26ob
+R26,WE,26 Jefferson State2in,Central Station,,26ib
+R26,WE,26 Jefferson State3,JSCC,,26ob
+R26,WE,26 Jefferson State3in,Central Station,,26ib
+R26,WE,26 Jefferson State4,JSCC,,26ob
+R26,WE,26 Jefferson State4in,Central Station,,26ib
+R26,WE,26 Jefferson State5,JSCC,,26ob
+R26,WE,26 Jefferson State5in,Central Station,,26ib
+R26,WE,26 Jefferson State6,JSCC,,26ob
+R26,WE,26 Jefferson State6in,Central Station,,26ib
+R26,WE,26 Jefferson State7,JSCC,,26ob
+R26,WE,26 Jefferson State7in,Central Station,,26ib
+R26,WE,26 Jefferson State8,JSCC,,26ob
+R26,WE,26 Jefferson State8in,Central Station,,26ib
+R26,WE,26 Jefferson State9,JSCC,0,26ob
+R28,WD,28 Roebuck1,Central Station,1,28ib
+R28,WD,28 Roebuck2,Roebuck Walmart,,28ob
+R28,WD,28 Roebuck2in,Central Station,,28ib
+R28,WD,28 Roebuck3,Roebuck Walmart,,28ob
+R28,WD,28 Roebuck3in,Central Station,,28ib
+R28,WD,28 Roebuck4,Roebuck Walmart,,28ob
+R28,WD,28 Roebuck4in,Central Station,,28ib
+R28,WD,28 Roebuck5,Roebuck Walmart,,28ob
+R28,WD,28 Roebuck5in,Central Station,,28ib
+R28,WD,28 Roebuck6,Roebuck Walmart,,28ob
+R28,WD,28 Roebuck6in,Central Station,,28ib
+R28,WD,28 Roebuck7,Roebuck Walmart,,28ob
+R28,WD,28 Roebuck7in,Central Station,,28ib
+R28,WD,28 Roebuck8,Central Station,1,28ib
+R28,WD,28 Roebuck9,Roebuck Walmart,,28ob
+R28,WD,28 Roebuck9in,Central Station,,28ib
+R28,WD,28 Roebuck10,Roebuck Walmart,,28ob
+R28,WD,28 Roebuck10in,Central Station,,28ib
+R28,WD,28 Roebuck11,Roebuck Walmart,,28ob
+R28,WD,28 Roebuck11in,Central Station,,28ib
+R28,WD,28 Roebuck12,Roebuck Walmart,,28ob
+R28,WD,28 Roebuck12in,Central Station,,28ib
+R28,WD,28 Roebuck13,Roebuck Walmart,,28ob
+R28,WD,28 Roebuck13in,Central Station,,28ib
+R28,WD,28 Roebuck14,Roebuck Walmart,,28ob
+R28,WD,28 Roebuck14in,Central Station,,28ib
+R28,WD,28 Roebuck15,Roebuck Walmart,,28ob
+R28,WD,28 Roebuck15in,Central Station,,28ib
+R28,WD,28 Roebuck16,Roebuck Walmart,,28ob
+R28,WD,28 Roebuck16in,Central Station,,28ib
+R28,WD,28 Roebuck17,Roebuck Walmart,,28ob
+R28,WD,28 Roebuck17in,Central Station,,28ib
+R28,WD,28 Roebuck18,Roebuck Walmart,,28ob
+R28,WD,28 Roebuck18in,Central Station,,28ib
+R28,WD,28 Roebuck19,Roebuck Walmart,,28ob
+R28,WD,28 Roebuck19in,Central Station,,28ib
+R28,WE,28sat1,Central Station,1,28ib
+R28,WE,28sat2,Roebuck Walmart,,28ob
+R28,WE,28sat2in,Central Station,,28ib
+R28,WE,28sat3,Roebuck Walmart,,28ob
+R28,WE,28sat3in,Central Station,,28ib
+R28,WE,28sat4,Roebuck Walmart,,28ob
+R28,WE,28sat4in,Central Station,,28ib
+R28,WE,28sat5,Roebuck Walmart,,28ob
+R28,WE,28sat5in,Central Station,,28ib
+R28,WE,28sat6,Roebuck Walmart,,28ob
+R28,WE,28sat6in,Central Station,,28ib
+R28,WE,28sat7,Roebuck Walmart,,28ob
+R28,WE,28sat7in,Central Station,,28ib
+R28,WE,28sat8,Central Station,1,28ib
+R28,WE,28sat9,Roebuck Walmart,,28ob
+R28,WE,28sat9in,Central Station,,28ib
+R28,WE,28sat10,Roebuck Walmart,,28ob
+R28,WE,28sat10in,Central Station,,28ib
+R28,WE,28sat11,Roebuck Walmart,,28ob
+R28,WE,28sat11in,Central Station,,28ib
+R28,WE,28sat12,Roebuck Walmart,,28ob
+R28,WE,28sat12in,Central Station,,28ib
+R28,WE,28sat13,Roebuck Walmart,,28ob
+R28,WE,28sat13in,Central Station,,28ib
+R28,WE,28sat14,Roebuck Walmart,,28ob
+R28,WE,28sat14in,Central Station,,28ib
+R28,WE,28sat15,Roebuck Walmart,,28ob
+R28,WE,28sat15in,Central Station,,28ib
+R28,WE,28sat16,Roebuck Walmart,,28ob
+R28,WE,28sat16in,Central Station,,28ib
+R28,WE,28sat17,Roebuck Walmart,,28ob
+R28,WE,28sat17in,Central Station,,28ib
+R28,WE,28sat18,Roebuck Walmart,,28ob
+R28,WE,28sat18in,Central Station,,28ib
+R28,WE,28sat19,Roebuck Walmart,,28ob
+R28,WE,28sat19in,Central Station,,28ib
+R31,WD,Galleria1,Vestavia-Hoover,,31ob
+R31,WD,Galleria1in,Central Station,,31ib
+R31,WD,Galleria2,Vestavia-Hoover,,31ob
+R31,WD,Galleria2in,Central Station,,31ib
+R31,WD,Galleria3,Vestavia-Hoover,,31ob
+R31,WD,Galleria3in,Central Station,,31ib
+R31,WD,Galleria4,Vestavia-Hoover,,31ob
+R31,WD,Galleria4in,Central Station,,31ib
+R31,WD,Galleria5,Vestavia-Hoover,,31ob
+R31,WD,Galleria5in,Central Station,,31ib
+R31,WD,Galleria6,Vestavia-Hoover,,31ob
+R31,WD,Galleria6in,Central Station,,31ib
+R31,WD,Galleria7,Vestavia-Hoover,,31ob
+R31,WD,Galleria7in,Central Station,,31ib
+R31,WE,hwy31sat1,Vestavia-Hoover,,31ob
+R31,WE,hwy31sat1in,Central Station,,31ib
+R31,WE,hwy31sat2,Vestavia-Hoover,,31ob
+R31,WE,hwy31sat2in,Central Station,,31ib
+R31,WE,hwy31sat3,Vestavia-Hoover,,31ob
+R31,WE,hwy31sat3in,Central Station,,31ib
+R31,WE,hwy31sat4,Vestavia-Hoover,,31ob
+R31,WE,hwy31sat4in,Central Station,,31ib
+R31,WE,hwy31sat5,Vestavia-Hoover,,31ob
+R31,WE,hwy31sat5in,Central Station,,31ib
+R38,WD,38 Graymont1,Central Station,1,38ib
+R38,WD,38 Graymont2,Avenue D Ensley,,38ob
+R38,WD,38 Graymont2in,Central Station,,38ib
+R38,WD,38 Graymont3,Avenue D Ensley,,38ob
+R38,WD,38 Graymont3in,Central Station,,38ib
+R38,WD,38 Graymont4,Avenue D Ensley,,38ob
+R38,WD,38 Graymont4in,Central Station,,38ib
+R38,WD,38 Graymont5,Avenue D Ensley,,38ob
+R38,WD,38 Graymont5in,Central Station,,38ib
+R38,WD,38 Graymont6,Avenue D Ensley,,38ob
+R38,WD,38 Graymont6in,Central Station,,38ib
+R38,WD,38 Graymont7,Avenue D Ensley,,38ob
+R38,WD,38 Graymont7in,Central Station,,38ib
+R38,WD,38 Graymont8,Avenue D Ensley,,38ob
+R38,WD,38 Graymont8in,Central Station,,38ib
+R38,WD,38 Graymont9,Avenue D Ensley,,38ob
+R38,WD,38 Graymont9in,Central Station,,38ib
+R38,WD,38 Graymont10,Avenue D Ensley,,38ob
+R38,WD,38 Graymont10in,Central Station,,38ib
+R38,WD,38 Graymont11,Avenue D Ensley,,38ob
+R38,WD,38 Graymont11in,Central Station,,38ib
+R38,WD,38 Graymont12,Avenue D Ensley,,38ob
+R38,WD,38 Graymont12in,Central Station,,38ib
+R38,WD,38 Graymont13,Avenue D Ensley,,38ob
+R38,WD,38 Graymont13in,Central Station,,38ib
+R38,WD,38 Graymont14,Avenue D Ensley,,38ob
+R38,WD,38 Graymont14in,Central Station,,38ib
+R38,WD,38 Graymont15,Avenue D Ensley,,38ob
+R38,WD,38 Graymont15in,Central Station,,38ib
+R38,WD,38 Graymont16,Avenue D Ensley,,38ob
+R38,WD,38 Graymont16in,Central Station,,38ib
+R38,WD,38 Graymont17,Ave D Ensley,0,38ob
+R38,WD,38 Graymont18,Central Station,1,38ib
+R38,WD,38 Graymont19,Avenue D Ensley,,38ob
+R38,WD,38 Graymont19in,Central Station,,38ib
+R38,WD,38 Graymont20,Avenue D Ensley,,38ob
+R38,WD,38 Graymont20in,Central Station,,38ib
+R38,WD,38 Graymont21,Avenue D Ensley,,38ob
+R38,WD,38 Graymont21in,Central Station,,38ib
+R38,WD,38 Graymont22,Avenue D Ensley,,38ob
+R38,WD,38 Graymont22in,Central Station,,38ib
+R38,WD,38 Graymont23,Avenue D Ensley,,38ob
+R38,WD,38 Graymont23in,Central Station,,38ib
+R38,WD,38 Graymont24,Avenue D Ensley,,38ob
+R38,WD,38 Graymont24in,Central Station,,38ib
+R38,WD,38 Graymont25,Avenue D Ensley,,38ob
+R38,WD,38 Graymont25in,Central Station,,38ib
+R38,WD,38 Graymont26,Avenue D Ensley,,38ob
+R38,WD,38 Graymont26in,Central Station,,38ib
+R38,WD,38 Graymont27,Avenue D Ensley,,38ob
+R38,WD,38 Graymont27in,Central Station,,38ib
+R38,WD,38 Graymont28,Avenue D Ensley,,38ob
+R38,WD,38 Graymont28in,Central Station,,38ib
+R38,WD,38 Graymont29,Avenue D Ensley,,38ob
+R38,WD,38 Graymont29in,Central Station,,38ib
+R38,WD,38 Graymont30,Avenue D Ensley,,38ob
+R38,WD,38 Graymont30in,Central Station,,38ib
+R38,WD,38 Graymont31,Avenue D Ensley,,38ob
+R38,WD,38 Graymont31in,Central Station,,38ib
+R38,WD,38 Graymont32,Avenue D Ensley,,38ob
+R38,WD,38 Graymont32in,Central Station,,38ib
+R38,WD,38 Graymont33,Avenue D Ensley,,38ob
+R38,WD,38 Graymont33in,Central Station,,38ib
+R38,WE,38sat1,Central Station,1,38ib
+R38,WE,38sat2,Avenue D Ensley,,38ob
+R38,WE,38sat2in,Central Station,,38ib
+R38,WE,38sat3,Avenue D Ensley,,38ob
+R38,WE,38sat3in,Central Station,,38ib
+R38,WE,38sat4,Avenue D Ensley,,38ob
+R38,WE,38sat4in,Central Station,,38ib
+R38,WE,38sat5,Avenue D Ensley,,38ob
+R38,WE,38sat5in,Central Station,,38ib
+R38,WE,38sat6,Avenue D Ensley,,38ob
+R38,WE,38sat6in,Central Station,,38ib
+R38,WE,38sat7,Avenue D Ensley,,38ob
+R38,WE,38sat7in,Central Station,,38ib
+R38,WE,38sat8,Avenue D Ensley,,38ob
+R38,WE,38sat8in,Central Station,,38ib
+R38,WE,38sat9,Avenue D Ensley,,38ob
+R38,WE,38sat9in,Central Station,,38ib
+R38,WE,38sat10,Avenue D Ensley,,38ob
+R38,WE,38sat10in,Central Station,,38ib
+R38,WE,38sat11,Avenue D Ensley,,38ob
+R38,WE,38sat11in,Central Station,,38ib
+R38,WE,38sat12,Avenue D Ensley,,38ob
+R38,WE,38sat12in,Central Station,,38ib
+R38,WE,38sat13,Avenue D Ensley,,38ob
+R38,WE,38sat13in,Central Station,,38ib
+R38,WE,38sat14,Avenue D Ensley,,38ob
+R38,WE,38sat14in,Central Station,,38ib
+R38,WE,38sat15,Avenue D Ensley,,38ob
+R38,WE,38sat15in,Central Station,,38ib
+R38,WE,38sat16,Avenue D Ensley,,38ob
+R38,WE,38sat16in,Central Station,,38ib
+R38,WE,38sat17,Ave D Ensley,0,38ob
+R39,WD,39 Homewood1,Central Station,1,39ib
+R39,WD,39 Homewood2,Wildwood North,,WildwoodOB
+R39,WD,39 Homewood2in,Central Station,,39ib
+R39,WD,39 Homewood3,Wildwood Walmart,,39ob
+R39,WD,39 Homewood3in,Central Station,,39ib
+R39,WD,39 Homewood4,Wildwood Walmart,,39ob
+R39,WD,39 Homewood4in,Central Station,,39ib
+R39,WD,39 Homewood5,Wildwood Walmart,,39ob
+R39,WD,39 Homewood5in,Central Station,,39ib
+R39,WD,39 Homewood6,Wildwood Walmart,,39ob
+R39,WD,39 Homewood6in,Central Station,,39ib
+R39,WD,39 Homewood7,Wildwood Walmart,,39ob
+R39,WD,39 Homewood7in,Central Station,,39ib
+R39,WD,39 Homewood8,Wildwood Walmart,0,39ob
+R39,WD,39 Homewood9,Wildwood Walmart,,39ob
+R39,WD,39 Homewood9in,Central Station,,39ib
+R39,WD,39 Homewood10,Wildwood North,,WildwoodOB
+R39,WD,39 Homewood10in,Central Station,,39ib
+R39,WD,39 Homewood11,Wildwood North,,WildwoodOB
+R39,WD,39 Homewood11in,Central Station,,39ib
+R39,WD,39 Homewood12,Wildwood North,,WildwoodOB
+R39,WD,39 Homewood12in,Central Station,,39ib
+R39,WD,39 Homewood13,Wildwood North,,WildwoodOB
+R39,WD,39 Homewood13in,Central Station,,39ib
+R39,WD,39 Homewood14,Wildwood North,,WildwoodOB
+R39,WD,39 Homewood14in,Central Station,,39ib
+R40,WD,40 Fairmont1,Central Station,1,40ib
+R40,WD,40 Fairmont2,42nd Ave & 43rd,,40ob
+R40,WD,40 Fairmont2in,Central Station,,40ib
+R40,WD,40 Fairmont3,42nd Ave & 43rd,,40ob
+R40,WD,40 Fairmont3in,Central Station,,40ib
+R40,WD,40 Fairmont4,42nd Ave & 43rd,,40ob
+R40,WD,40 Fairmont4in,Central Station,,40ib
+R40,WD,40 Fairmont5,42nd Ave & 43rd,,40ob
+R40,WD,40 Fairmont5in,Central Station,,40ib
+R40,WD,40 Fairmont6,42nd Ave & 43rd,,40ob
+R40,WD,40 Fairmont6in,Central Station,,40ib
+R40,WD,40 Fairmont7,Central Station,1,40ib
+R40,WD,40 Fairmont8,42nd Ave & 43rd,,40ob
+R40,WD,40 Fairmont8in,Central Station,,40ib
+R40,WD,40 Fairmont9,42nd Ave & 43rd,,40ob
+R40,WD,40 Fairmont9in,Central Station,,40ib
+R40,WD,40 Fairmont10,42nd Ave & 43rd,,40ob
+R40,WD,40 Fairmont10in,Central Station,,40ib
+R40,WD,40 Fairmont11,42nd Ave & 43rd,,40ob
+R40,WD,40 Fairmont11in,Central Station,,40ib
+R40,WD,40 Fairmont12,42nd Ave & 43rd,0,40ob
+R40,WD,40 Fairmont13,42nd Ave & 43rd,,40ob
+R40,WD,40 Fairmont13in,Central Station,,40ib
+R40,WD,40 Fairmont14,42nd Ave & 43rd,,40ob
+R40,WD,40 Fairmont14in,Central Station,,40ib
+R40,WD,40 Fairmont15,42nd Ave & 43rd,,40ob
+R40,WD,40 Fairmont15in,Central Station,,40ib
+R40,WD,40 Fairmont16,42nd Ave & 43rd,,40ob
+R40,WD,40 Fairmont16in,Central Station,,40ib
+R40,WD,40 Fairmont17,42nd Ave & 43rd,,40ob
+R40,WD,40 Fairmont17in,Central Station,,40ib
+R40,WD,40 Fairmont18,42nd Ave & 43rd,0,40ob
+R40,WE,40sat1,Central Station,1,40ib
+R40,WE,40sat2,42nd Ave & 43rd,,40ob
+R40,WE,40sat2in,Central Station,,40ib
+R40,WE,40sat3,42nd Ave & 43rd,,40ob
+R40,WE,40sat3in,Central Station,,40ib
+R40,WE,40sat4,42nd Ave & 43rd,,40ob
+R40,WE,40sat4in,Central Station,,40ib
+R40,WE,40sat5,42nd Ave & 43rd,,40ob
+R40,WE,40sat5in,Central Station,,40ib
+R40,WE,40sat6,42nd Ave & 43rd,0,40ob
+R40,WE,40sat7,42nd Ave & 43rd,,40ob
+R40,WE,40sat7in,Central Station,,40ib
+R40,WE,40sat8,42nd Ave & 43rd,,40ob
+R40,WE,40sat8in,Central Station,,40ib
+R40,WE,40sat9,42nd Ave & 43rd,,40ob
+R40,WE,40sat9in,Central Station,,40ib
+R40,WE,40sat10,42nd Ave & 43rd,,40ob
+R40,WE,40sat10in,Central Station,,40ib
+R40,WE,40sat11,42nd Ave & 43rd,,40ob
+R40,WE,40sat11in,Central Station,,40ib
+R41,WD,41 Fairfield1,Central Station,1,41ib
+R41,WD,41 Fairfield2,Western Hills Mall,,41ob
+R41,WD,41 Fairfield2in,Central Station,,41ib
+R41,WD,41 Fairfield3,Western Hills Mall,,41ob
+R41,WD,41 Fairfield3in,Central Station,,41ib
+R41,WD,41 Fairfield4,Western Hills Mall,,41ob
+R41,WD,41 Fairfield4in,Central Station,,41ib
+R41,WD,41 Fairfield5,Western Hills Mall,,41ob
+R41,WD,41 Fairfield5in,Central Station,,41ib
+R41,WD,41 Fairfield6,Western Hills Mall,,41ob
+R41,WD,41 Fairfield6in,Central Station,,41ib
+R41,WD,41 Fairfield7,Western Hills Mall,,41ob
+R41,WD,41 Fairfield7in,Central Station,,41ib
+R41,WD,41 Fairfield8,Western Hills Mall,,41ob
+R41,WD,41 Fairfield8in,Central Station,,41ib
+R41,WD,41 FairfieldA,Western Hills Mall,0,41ob
+R41,WD,41 Fairfield9,Western Hills Mall,,41ob
+R41,WD,41 Fairfield9in,Central Station,,41ib
+R41,WD,41 Fairfield10,Western Hills Mall,,41ob
+R41,WD,41 Fairfield10in,Central Station,,41ib
+R41,WD,41 Fairfield11,Western Hills Mall,,41ob
+R41,WD,41 Fairfield11in,Central Station,,41ib
+R41,WD,41 Fairfield12,Western Hills Mall,,41ob
+R41,WD,41 Fairfield12in,Central Station,,41ib
+R41,WD,41 Fairfield13,Western Hills Mall,,41ob
+R41,WD,41 Fairfield13in,Central Station,,41ib
+R41,WD,41 Fairfield14,Western Hills Mall,,41ob
+R41,WD,41 Fairfield14in,Central Station,,41ib
+R41,WD,41 Fairfield15,Western Hills Mall,,41ob
+R41,WD,41 Fairfield15in,Central Station,,41ib
+R41,WD,41 Fairfield16,Western Hills Mall,,41ob
+R41,WD,41 Fairfield16in,Central Station,,41ib
+R41,WE,41sat1,Central Station,1,41ib
+R41,WE,41sat2,Western Hills Mall,,41ob
+R41,WE,41sat2in,Central Station,,41ib
+R41,WE,41sat3,Western Hills Mall,,41ob
+R41,WE,41sat3in,Central Station,,41ib
+R41,WE,41sat4,Western Hills Mall,,41ob
+R41,WE,41sat4in,Central Station,,41ib
+R41,WE,41sat5,Western Hills Mall,,41ob
+R41,WE,41sat5in,Central Station,,41ib
+R41,WE,41sat6,Western Hills Mall,,41ob
+R41,WE,41sat6in,Central Station,,41ib
+R41,WE,41sat7,Western Hills Mall,,41ob
+R41,WE,41sat7in,Central Station,,41ib
+R41,WE,41sat8,Western Hills Mall,,41ob
+R41,WE,41sat8in,Central Station,,41ib
+R41,WE,41sat9,Western Hills Mall,0,41ob
+R41,WE,41sat10,Western Hills Mall,,41ob
+R41,WE,41sat10in,Central Station,,41ib
+R41,WE,41sat11,Western Hills Mall,,41ob
+R41,WE,41sat11in,Central Station,,41ib
+R41,WE,41sat12,Western Hills Mall,,41ob
+R41,WE,41sat12in,Central Station,,41ib
+R41,WE,41sat13,Western Hills Mall,,41ob
+R41,WE,41sat13in,Central Station,,41ib
+R41,WE,41sat14,Western Hills Mall,,41ob
+R41,WE,41sat14in,Central Station,,41ib
+R41,WE,41sat15,Western Hills Mall,,41ob
+R41,WE,41sat15in,Central Station,,41ib
+R41,WE,41sat16,Western Hills Mall,0,41ob
+R42,WD,42 Brookwood1,Central Station,1,42ib
+R42,WD,42 Brookwood2,Medical Center,,42ob
+R42,WD,42 Brookwood2in,Central Station,,42ib
+R42,WD,42 Brookwood3,Medical Center,,42ob
+R42,WD,42 Brookwood3in,Central Station,,42ib
+R42,WD,42 Brookwood4,Medical Center,,42ob
+R42,WD,42 Brookwood4in,Central Station,,42ib
+R42,WD,42 Brookwood5,Medical Center,,42ob
+R42,WD,42 Brookwood5in,Central Station,,42ib
+R42,WD,42 Brookwood6,Medical Center,,42ob
+R42,WD,42 Brookwood6in,Central Station,,42ib
+R42,WD,42 Brookwood7,Medical Center,,42ob
+R42,WD,42 Brookwood7in,Central Station,,42ib
+R42,WD,42 Brookwood8,Homewood HS,,42Homewood
+R42,WD,42 Brookwood8in,Central Station,,42ib
+R42,WD,42 Brookwood9,Medical Center,,42ob
+R42,WD,42 Brookwood9in,Central Station,,42ib
+R42,WD,42 Brookwood10,Medical Center,,42ob
+R42,WD,42 Brookwood10in,Central Station,,42ib
+R42,WD,42 Brookwood11,Medical Center,,42ob
+R42,WD,42 Brookwood11in,Central Station,,42ib
+R42,WD,42 Brookwood12,Homewood HS,,42Homewood
+R42,WD,42 Brookwood12in,Central Station,,42ib
+R42,WD,42 Brookwood13,Medical Center,,42ob
+R42,WD,42 Brookwood13in,Central Station,,42ib
+R42,WD,42 Brookwood14,Medical Center,0,42ob
+R43,WD,43 Zooout1,20th St S-Cahaba,0,43ob
+R43,WD,43 Zooin1,Central Station,1,43ib
+R43,WD,43 Zooout2,20th St S-Cahaba,0,43ob
+R43,WD,43 Zooin2,Central Station,1,43ib
+R43,WD,43 Zooout3,20th St S-Cahaba,0,43ob
+R43,WD,43 Zooin3,Central Station,1,43ib
+R43,WD,43 Zooout4,20th St S-Cahaba,0,43ob
+R43,WD,43 Zooin4,Central Station,1,43ib
+R43,WD,43 Zooout5,20th St S-Cahaba,0,43ob
+R43,WD,43 Zooin5,Central Station,1,43ib
+R43,WD,43 Zooout6,20th St S-Cahaba,0,43ob
+R43,WD,43 Zooin6,Central Station,1,43ib
+R43,WD,43 Zooout7,20th St S-Cahaba,0,43ob
+R43,WD,43 Zooin7,Central Station,1,43ib
+R43,WD,43 Zooout8,20th St S-Cahaba,0,43ob
+R43,WD,43 Zooin8,Central Station,1,43ib
+R43,WD,43 Zooout9,20th St S-Cahaba,0,43ob
+R43,WD,43 Zooin9,Central Station,1,43ib
+R43,WD,43 Zooout10,20th St S-Cahaba,0,43ob
+R43,WD,43 Zooin10,Central Station,1,43ib
+R43,WD,43 Zooout11,20th St S-Cahaba,0,43ob
+R43,WD,43 Zooin11,Central Station,1,43ib
+R43,WD,43 Zooout12,20th St S-Cahaba,0,43ob
+R43,WD,43 Zooin12,Central Station,1,43ib
+R44,WD,44 Montclair1,Eastwood,,44ob
+R44,WD,44 Montclair1in,Central Station,,44ib
+R44,WD,44 Montclair2,Eastwood,,44ob
+R44,WD,44 Montclair2in,Central Station,,44ib
+R44,WD,44 Montclair3,Eastwood,,44ob
+R44,WD,44 Montclair3in,Central Station,,44ib
+R44,WD,44 Montclair4,Eastwood,,44ob
+R44,WD,44 Montclair4in,Central Station,,44ib
+R44,WD,44 Montclair5,Eastwood,,44ob
+R44,WD,44 Montclair5in,Central Station,,44ib
+R44,WD,44 Montclair6,Eastwood,,44ob
+R44,WD,44 Montclair6in,Central Station,,44ib
+R44,WD,44 Montclair7,Eastwood,,44ob
+R44,WD,44 Montclair7in,Central Station,,44ib
+R44,WD,44 Montclair8,Eastwood,,44ob
+R44,WD,44 Montclair8in,Central Station,,44ib
+R44,WD,44 Montclair9,Eastwood,,44ob
+R44,WD,44 Montclair9in,Central Station,,44ib
+R44,WD,44 Montclair10,Eastwood,,44ob
+R44,WD,44 Montclair10in,Central Station,,44ib
+R44,WD,44 Montclair11,Eastwood,0,44ob
+R44,WE,44sat1,Central Station,1,44ib
+R44,WE,44sat2,Eastwood,,44ob
+R44,WE,44sat2in,Central Station,,44ib
+R44,WE,44sat3,Eastwood,,44ob
+R44,WE,44sat3in,Central Station,,44ib
+R44,WE,44sat4,Eastwood,,44ob
+R44,WE,44sat4in,Central Station,,44ib
+R44,WE,44sat5,Eastwood,,44ob
+R44,WE,44sat5in,Central Station,,44ib
+R44,WE,44sat6,Eastwood,,44ob
+R44,WE,44sat6in,Central Station,,44ib
+R44,WE,44sat7,Eastwood,,44ob
+R44,WE,44sat7in,Central Station,,44ib
+R44,WE,44sat8,Eastwood,,44ob
+R44,WE,44sat8in,Central Station,,44ib
+R44,WE,44sat9,Eastwood,,44ob
+R44,WE,44sat9in,Central Station,,44ib
+R44,WE,44sat10,Eastwood,,44ob
+R44,WE,44sat10in,Central Station,,44ib
+R44,WE,44sat11,Eastwood,0,44ob
+R45,WD,45 Bessemer1,Central Station,1,B119
+R45,WD,45 Bessemer2,Jonesboro,,45ob
+R45,WD,45 Bessemer2in,Central Station,,45ib
+R45,WD,45 Bessemer3,Jonesboro,,45ob
+R45,WD,45 Bessemer3in,Central Station,,45ib
+R45,WD,45 Bessemer4,Jonesboro,,45ob
+R45,WD,45 Bessemer4in,Central Station,,45ib
+R45,WD,45 Bessemer5,Jonesboro,,45ob
+R45,WD,45 Bessemer5in,Central Station,,45ib
+R45,WD,45 Bessemer6,Jonesboro,,45ob
+R45,WD,45 Bessemer6in,Central Station,,45ib
+R45,WD,45 Bessemer8,Jonesboro,,45ob
+R45,WD,45 Bessemer8in,Central Station,,45ib
+R45,WD,45 Bessemer9,Jonesboro,,45ob
+R45,WD,45 Bessemer9in,Central Station,,45ib
+R45,WD,45 Bessemer10,Jonesboro,,45ob
+R45,WD,45 Bessemer10in,Central Station,,45ib
+R45,WD,45 Bessemer11,4th Avenue,0,45J10
+R45,WD,45 Bessemer11in,Central Station,,45ib
+R45,WD,45 Bessemer12,Jonesboro,,45ob
+R45,WD,45 Bessemer12in,Central Station,,45ib
+R45,WD,45 Bessemer13,Jonesboro,,45ob
+R45,WD,45 Bessemer13in,Central Station,,45ib
+R45,WD,45 Bessemer14,Jonesboro,,45ob
+R45,WD,45 Bessemer14in,Central Station,,45ib
+R45,WD,45 Bessemer15,Jonesboro,,45ob
+R45,WD,45 Bessemer15in,Central Station,,45ib
+R45,WD,45 Bessemer16,Jonesboro,,45ob
+R45,WD,45 Bessemer16in,Central Station,,45ib
+R45,WD,45 Bessemer17,Jonesboro,,45ob
+R45,WD,45 Bessemer17in,Central Station,,45ib
+R45,WD,45 Bessemer18,Jonesboro,,45ob
+R45,WD,45 Bessemer18in,Central Station,,45ib
+R45,WD,45 Bessemer19,Jonesboro,,45ob
+R45,WD,45 Bessemer19in,Central Station,,45ib
+R45,WE,45sat1,Central Station,1,45ib
+R45,WE,45sat2,Jonesboro,,45ob
+R45,WE,45sat2in,Central Station,,45ib
+R45,WE,45sat3,Jonesboro,,45ob
+R45,WE,45sat3in,Central Station,,45ib
+R45,WE,45sat4,Jonesboro,,45ob
+R45,WE,45sat4in,Central Station,,45ib
+R45,WE,45sat5,Jonesboro,,45ob
+R45,WE,45sat5in,Central Station,,45ib
+R45,WE,45sat6,Jonesboro,,45ob
+R45,WE,45sat6in,Central Station,,45ib
+R45,WE,45sat7,4th Avenue,,45ob
+R45,WE,45sat7in,Central Station,,45ib
+R45,WE,45sat8,Jonesboro,,45ob
+R45,WE,45sat8in,Central Station,,45ib
+R45,WE,45sat9,4th Avenue,0,45ob
+R45,WE,45sat10,Jonesboro,,45ob
+R45,WE,45sat10in,Central Station,,45ib
+R45,WE,45sat11,Jonesboro,,45ob
+R45,WE,45sat11in,Central Station,,45ib
+R45,WE,45sat12,Jonesboro,,45ob
+R45,WE,45sat12in,Central Station,,45ib
+R45,WE,45sat13,Jonesboro,,45ob
+R45,WE,45sat13in,Central Station,,45ib
+R45,WE,45sat14,Jonesboro,,45ob
+R45,WE,45sat14in,Central Station,,45ib
+R45,WE,45sat15,Jonesboro,,45ob
+R45,WE,45sat15in,Central Station,,45ib
+R45,WE,45sat16,Jonesboro,,45ob
+R45,WE,45sat16in,Central Station,,45ib
+R45,WE,45sat17,Jonesboro,,45ob
+R45,WE,45sat17in,Central Station,,45ib
+R45Ex,WD,45Exin1,Central Station,1,45ExI
+R45Ex,WD,45Exout2,Western Hills Mall,,45ExO
+R45Ex,WD,45Exin2,Central Station,,45ExI
+R45Ex,WD,45Exout3,Western Hills Mall,,45ExO
+R45Ex,WD,45Exin3,Central Station,,45ExI
+R45Ex,WD,45Exout4,Western Hills Mall,,45ExO
+R45Ex,WD,45Exin4,Central Station,,45ExI
+R45Ex,WD,45Exout5,Western Hills Mall,,45ExO
+R45Ex,WD,45Exin5,Central Station,,45ExI
+R45Ex,WD,45Exout6,Western Hills Mall,,45ExO
+R45Ex,WD,45Exin6,Central Station,,45ExI
+R45Ex,WD,45Exout7,Western Hills Mall,,45ExO
+R45Ex,WD,45Exin7,Central Station,,45ExI
+R45Ex,WD,45Exout8,Western Hills Mall,,45ExO
+R45Ex,WD,45Exin8,Central Station,,45ExI
+R45Ex,WD,45Exout9,Western Hills Mall,,45ExO
+R45Ex,WD,45Exin9,Central Station,,45ExI
+R45Ex,WD,45Exout10,Western Hills Mall,,45ExO
+R45Ex,WD,45Exin10,Central Station,,45ExI
+R45Ex,WD,45Exout11,Western Hills Mall,,45ExO
+R45Ex,WD,45Exin11,Central Station,,45ExI
+R45Ex,WD,45Exout12,Western Hills Mall,,45ExO
+R45Ex,WD,45Exin12,Central Station,,45ExI
+R48,WD,48 South Powderly1,Electra & Goldenpines,,48amO
+R48,WD,48 South Powderly1in,Central Station,,48amI
+R48,WD,48 South Powderly2,Electra & Goldenpines,,48amO
+R48,WD,48 South Powderly2in,Central Station,,48amI
+R48,WD,48 South Powderly3,Electra & Goldenpines,,48pmO
+R48,WD,48 South Powderly3in,Central Station,,48pmI
+R48,WD,48 South Powderly4,Electra & Goldenpines,,48pmO
+R48,WD,48 South Powderly4in,Central Station,,48pmI
+R48,WD,48 South Powderly5,Electra & Goldenpines,,48pmO
+R48,WD,48 South Powderly5in,Central Station,,48pmI
+R48,WD,48 South Powderly6,Electra & Goldenpines,0,48pmO
+R48,WD,48 South Powderly7,Electra & Goldenpines,,48amO
+R48,WD,48 South Powderly7in,Central Station,,48amI
+R48,WD,48 South Powderly8,Electra & Goldenpines,,48amO
+R48,WD,48 South Powderly8in,Central Station,,48amI
+R48,WD,48 South Powderly9,Electra & Goldenpines,,48pmO
+R48,WD,48 South Powderly9in,Central Station,,48pmI
+R48,WD,48 South Powderly10,Electra & Goldenpines,,48pmO
+R48,WD,48 South Powderly10in,Central Station,,48pmI
+R48,WD,48 South Powderly11,Electra & Goldenpines,,48pmO
+R48,WD,48 South Powderly11in,Central Station,,48pmI
+R48,WD,48 South Powderly12,Electra & Goldenpines,,48amO
+R48,WD,48 South Powderly12in,Central Station,,48amI
+R48,WD,48 South Powderly13,Electra & Goldenpines,,48amO
+R48,WD,48 South Powderly13in,Central Station,,48amI
+R48,WD,48 South Powderly14,Electra & Goldenpines,,48pmO
+R48,WD,48 South Powderly14in,Central Station,,48pmI
+R48,WD,48 South Powderly15,Electra & Goldenpines,,48pmO
+R48,WD,48 South Powderly15in,Central Station,,48pmI
+R48,WD,48 South Powderly16,Electra & Goldenpines,,48pmO
+R48,WD,48 South Powderly16in,Central Station,,48pmI
+R48,WE,48sat1,Electra & Goldenpines,,48amO
+R48,WE,48sat1in,Central Station,,48amI
+R48,WE,48sat2,Electra & Goldenpines,,48amO
+R48,WE,48sat2in,Central Station,,48amI
+R48,WE,48sat3,Electra & Goldenpines,,48pmO
+R48,WE,48sat3in,Central Station,,48pmI
+R48,WE,48sat4,Electra & Goldenpines,,48pmO
+R48,WE,48sat4in,Central Station,,48pmI
+R48,WE,48sat5,Electra & Goldenpines,,48pmO
+R48,WE,48sat5in,Central Station,,48pmI
+R48,WE,48sat6,Electra & Goldenpines,,48amO
+R48,WE,48sat6in,Central Station,,48amI
+R48,WE,48sat7,Electra & Goldenpines,,48amO
+R48,WE,48sat7in,Central Station,,48amI
+R48,WE,48sat8,Electra & Goldenpines,,48pmO
+R48,WE,48sat8in,Central Station,,48pmI
+R48,WE,48sat9,Electra & Goldenpines,,48pmO
+R48,WE,48sat9in,Central Station,,48pmI
+R48,WE,48sat10,Electra & Goldenpines,0,48pmO
+R50 CB,WD,50 Cherokee Bend1,Belle Meade & Rockhill,0,50 Cherokee Bend
+R50 CB,WD,50 Cherokee Bend2,Central Station,1,50 Cherokee BendI
+R50 H,WD,50 Hermitage1,Overton Rd,0,50 Hermitage
+R50 H,WD,50 Hermitage2,Central Station,1,50 HermitageI
+R51,WD,51 Cahaba1,Overton & Hwy 280,0,51 Cahaba
+R51,WD,51 Cahaba2,Central Station,1,51ib
+R72,WD,72 Express,Highland & 21st,1,72 Express
+R72,WD,72 Express1,Highland & 21st,1,72 Express
+R72,WD,72 Express2,Westchester,0,72 ExpressO
+R72,WD,72 Express3,Westchester,0,72 ExpressO
+R90 Blue,WD,90 North South Dart1,,,90 North South Dart
+R90 Blue,WD,90 North South Dart2,,,90 North South Dart
+R90 Blue,WD,90 North South Dart3,,,90 North South Dart
+R90 Blue,WD,90 North South Dart4,,,90 North South Dart
+R90 Blue,WD,90 North South Dart5,,,90 North South Dart
+R90 Blue,WD,90 North South Dart6,,,90 North South Dart
+R90 Blue,WD,90 North South Dart7,,,90 North South Dart
+R90 Blue,WD,90 North South Dart8,,,90 North South Dart
+R90 Blue,WD,90 North South Dart9,,,90 North South Dart
+R90 Blue,WD,90 North South Dart10,,,90 North South Dart
+R90 Blue,WD,90 North South Dart11,,,90 North South Dart
+R90 Blue,WD,90 North South Dart12,,,90 North South Dart
+R90 Blue,WD,90 North South Dart13,,,90 North South Dart
+R90 Blue,WD,90 North South Dart14,,,90 North South Dart
+R90 Blue,WD,90 North South Dart15,,,90 North South Dart
+R90 Blue,WD,90 North South Dart16,,,90 North South Dart
+R90 Blue,WD,90 North South Dart17,,,90 North South Dart
+R90 Blue,WD,90 North South Dart18,,,90 North South Dart
+R90 Blue,WD,90 North South Dart19,,,90 North South Dart
+R90 Blue,WD,90 North South Dart20,,,90 North South Dart
+R90 Blue,WD,90 North South Dart21,,,90 North South Dart
+R90 Blue,WD,90 North South Dart23,,,90 North South Dart
+R90 Blue,WD,90 North South Dart24,,,90 North South Dart
+R90 Blue,WD,90 North South Dart 14th1,,,90 North South Dart 14th
+R90 Blue,WD,90 North South Dart 14th2,,,90 North South Dart 14th
+R90 Blue,WD,90 North South Dart 14th3,,,90 North South Dart 14th
+R90 Blue,WD,90 North South Dart 14th4,,,90 North South Dart 14th
+R90 Blue,WD,90 North South Dart 14th5,,,90 North South Dart 14th
+R90 Blue,WD,90 North South Dart 14th6,,,90 North South Dart 14th
+R90 Blue,WD,90 North South Dart 14th7,,,90 North South Dart 14th
+R90 Blue,WD,90 North South Dart 14th8,,,90 North South Dart 14th
+R90 Blue,WD,90 North South Dart 14th9,,,90 North South Dart 14th
+R90 Blue,WD,90 North South Dart 14th10,,,90 North South Dart 14th
+R90 Blue,WD,90 North South Dart 14th11,,,90 North South Dart 14th
+R90 Blue,WD,90 North South Dart 14th12,,,90 North South Dart 14th
+R90 Blue,WD,90 North South Dart 14AveS1,,,90 North South Dart 14th
+R90 Blue,WD,90 North South Dart 14AveS2,,,90 North South Dart 14th
+R90 Blue,WD,90 North South Dart 14AveS3,,,90 North South Dart 14th
+R90 Blue,WD,90 North South Dart 14AveS4,,,90 North South Dart 14th
+R90 Blue,WD,90 North South Dart 14AveS5,,,90 North South Dart 14th
+R90 Blue,WD,90 North South Dart 14AveS6,,,90 North South Dart 14th
+R90 Blue,WD,90 North South Dart 14AveS7,,,90 North South Dart 14th
+R90 Blue,WD,90 North South Dart 14AveS8,,,90 North South Dart 14th
+R90 Blue,WD,90 North South Dart 14AveS9,,,90 North South Dart 14th
+R90 Blue,WD,90 North South Dart 14AveS10,,,90 North South Dart 14th
+R90 Blue,WD,90 North South Dart 14AveS11,,,90 North South Dart 14th
+R90 Blue,WD,90 North South Dart PM1,,,90 North South Dart PM
+R90 Blue,WD,90 North South Dart PM2,,,90 North South Dart PM
+R90 Blue,WD,90 North South Dart PM3,,,90 North South Dart PM
+R90 Blue,WD,90 North South Dart PM4,,,90 North South Dart PM
+R90 Blue,WD,90 North South Dart PM5,,,90 North South Dart PM
+R90 Blue,WD,90 North South Dart PM6,,,90 North South Dart PM
+R90 Blue,WD,90 North South Dart PM7,,,90 North South Dart PM
+R90 Blue,WD,90 North South Dart PM8,,,90 North South Dart1
+R90 Blue,WD,90 North South Dart PM9,,,90 North South Dart PM
+R90 Blue,WD,90 North South Dart PM10,,,90 North South Dart PM
+R90 Blue,WD,90 North South Dart PM11,,,90 North South Dart PM
+R90 Blue,WD,90 North South Dart PM12,,,90 North South Dart PM
+R90 Blue,WD,90 North South Dart PM13,,,90 North South Dart PM
+R90 Blue,WD,90 North South Dart Fripm1,,,90 North South Dart PM
+R90 Blue,WD,90 North South Dart Fripm2,,,90 North South Dart PM
+R90 Blue,WD,90 North South Dart Fripm3,,,90 North South Dart PM
+R90 Blue,WD,90 North South Dart Fripm4,,,90 North South Dart PM
+R90 Blue,WD,90 North South Dart Fripm5,,,90 North South Dart PM
+R90 Blue,WD,90 North South Dart Fripm6,,,90 North South Dart PM
+R90 Blue,WE,90bluesat1,,,90 North South Dart PM
+R90 Blue,WE,90bluesat2,,,90 North South Dart PM
+R90 Blue,WE,90bluesat3,,,90 North South Dart PM
+R90 Blue,WE,90bluesat4,,,90 North South Dart PM
+R90 Blue,WE,90bluesat5,,,90 North South Dart PM
+R90 Blue,WE,90bluesat6,,,90 North South Dart PM
+R90 Blue,WE,90bluesat7,,,90 North South Dart PM
+R90 Blue,WE,90bluesat8,,,90 North South Dart PM
+R90 Blue,WE,90bluesat9,,,90 North South Dart PM
+R90 Blue,WE,90bluesat10,,,90 North South Dart PM
+R90 Blue,WE,90bluesat11,,,90 North South Dart PM
+R90 Blue,WE,90bluesat12,,,90 North South Dart PM
+R90 Blue,WE,90bluesat13,,,90 North South Dart PM
+R90 Blue,WE,90bluesat14,,,90 North South Dart PM
+R90 Blue,WE,90bluesat15,,,90 North South Dart PM
+R90 Blue,WE,90bluesat16,,,90 North South Dart PM
+R90 Blue,WE,90bluesat17,,,90 North South Dart PM
+R90 Blue,WE,90bluesat18,,,90 North South Dart PM
+R90 Blue,WE,90bluesat19,,,90 North South Dart PM
+R90 Blue,WE,90bluesat20,,,90 North South Dart PM
+R90 Blue,WE,90bluesat21,,,90 North South Dart PM
+R90 Blue,WE,90bluesat22,,,90 North South Dart PM
+R90 Blue,WE,90bluesat23,,,90 North South Dart PM
+R90 Blue,WE,90bluesat24,,,90 North South Dart PM
+R90 Blue,WE,90bluesat25,,,90 North South Dart PM
+R90 Blue,WE,90bluesat26,,,90 North South Dart PM
+R90 Blue,WE,90bluesat27,,,90 North South Dart PM
+R90 Blue,WE,90bluesat28,,,90 North South Dart PM
+R90 Blue,WE,90bluesat29,,,90 North South Dart PM
+R90 Blue,WE,90bluesat30,,,90 North South Dart PM
+R90 Blue,WE,90bluesat31,,,90 North South Dart PM
+R90 Blue,WE,90bluesat32,,,90 North South Dart PM
+R90 Blue,WE,90bluesat33,,,90 North South Dart PM
+R90 Blue,WE,90bluesat34,,,90 North South Dart PM
+R90 Blue,WE,90bluesat35,,,90 North South Dart PM
+R90 Blue,WE,90bluesat36,,,90 North South Dart PM
+R90 Blue,WE,90bluesat37,,,90 North South Dart PM
+R90 Blue,WE,90bluesat38,,,90 North South Dart PM
+R90 Blue,WE,90bluesat39,,,90 North South Dart PM
+R90 Blue,WE,90bluesat40,,,90 North South Dart PM
+R90 Blue,WE,90bluesat41,,,90 North South Dart PM
+R90 Blue,WE,90bluesat42,,,90 North South Dart PM
+R91 Red,WD,91 East West Dart1,,,91 East West Dart
+R91 Red,WD,91 East West Dart2,,,91 East West Dart
+R91 Red,WD,91 East West Dart3,,,91 East West Dart
+R91 Red,WD,91 East West Dart4,,,91 East West Dart
+R91 Red,WD,91 East West Dart5,,,91 East West Dart
+R91 Red,WD,91 East West Dart6,,,91 East West Dart
+R91 Red,WD,91 East West Dart7,,,91 East West Dart
+R91 Red,WD,91 East West Dart8,,,91 East West Dart
+R91 Red,WD,91 East West Dart9,,,91 East West Dart
+R91 Red,WD,91 East West Dart10,,,91 East West Dart
+R91 Red,WD,91 East West Dart11,,,91 East West Dart
+R91 Red,WD,91 East West Dart12,,,91 East West Dart
+R91 Red,WD,91 East West Dart13,,,91 East West Dart
+R91 Red,WD,91 East West Dart14,,,91 East West Dart
+R91 Red,WD,91 East West Dart15,,,91 East West Dart
+R91 Red,WD,91 East West Dart16,,,91 East West Dart
+R91 Red,WD,91 East West Dart17,,,91 East West Dart
+R91 Red,WE,91redsat1,,,91redsat
+R91 Red,WE,91redsat2,,,91redsat
+R91 Red,WE,91redsat3,,,91redsat
+R91 Red,WE,91redsat4,,,91redsat
+R91 Red,WE,91redsat5,,,91redsat
+R91 Red,WE,91redsat6,,,91redsat
+R91 Red,WE,91redsat7,,,91redsat
+R91 Red,WE,91redsat8,,,91redsat
+R91 Red,WE,91redsat9,,,91redsat
+R91 Red,WE,91redsat10,,,91redsat
+R91 Red,WE,91redsat11,,,91redsat
+R91 Red,WE,91redsat12,,,91redsat
+R91 Red,WE,91redsat13,,,91redsat
+R91 Red,WE,91redsat14,,,91redsat
+R91 Red,WE,91redsat15,,,91redsat
+R91 Red,WE,91redsat16,,,91redsat
+R91 Red,WE,91redsat17,,,91redsat
+R92 Green,WD,92 Southside Loop Dart1,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart2,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart3,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart4,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart5,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart6,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart7,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart8,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart9,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart10,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart11,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart12,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart13,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart14,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart15,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart16,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart17,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart18,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart19,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart20,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart21,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart22,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart23,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart24,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart25,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart26,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart27,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart28,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart29,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart30,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart31,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart32,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart33,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart34,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart35,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart36,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart37,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart38,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart39,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart40,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart41,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart42,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart43,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart Fripm1,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart Fripm2,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart Fripm3,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart Fripm4,,,92 Southside Loop Dart
+R92 Green,WD,92 Southside Loop Dart Fripm5,,,92 Southside Loop Dart
+R92 Green,WE,92greensat1,,,92 Southside Loop Dart
+R92 Green,WE,92greensat2,,,92 Southside Loop Dart
+R92 Green,WE,92greensat3,,,92 Southside Loop Dart
+R92 Green,WE,92greensat4,,,92 Southside Loop Dart
+R92 Green,WE,92greensat5,,,92 Southside Loop Dart
+R92 Green,WE,92greensat6,,,92 Southside Loop Dart
+R92 Green,WE,92greensat7,,,92 Southside Loop Dart
+R92 Green,WE,92greensat8,,,92 Southside Loop Dart
+R92 Green,WE,92greensat9,,,92 Southside Loop Dart
+R92 Green,WE,92greensat10,,,92 Southside Loop Dart
+R92 Green,WE,92greensat11,,,92 Southside Loop Dart
+R92 Green,WE,92greensat12,,,92 Southside Loop Dart
+R92 Green,WE,92greensat13,,,92 Southside Loop Dart
+R92 Green,WE,92greensat14,,,92 Southside Loop Dart
+R92 Green,WE,92greensat15,,,92 Southside Loop Dart
+R92 Green,WE,92greensat16,,,92 Southside Loop Dart
+R92 Green,WE,92greensat17,,,92 Southside Loop Dart
+R92 Green,WE,92greensat18,,,92 Southside Loop Dart
+R92 Green,WE,92greensat19,,,92 Southside Loop Dart
+R92 Green,WE,92greensat20,,,92 Southside Loop Dart
+R92 Green,WE,92greensat21,,,92 Southside Loop Dart
+R92 Green,WE,92greensat22,,,92 Southside Loop Dart
+R92 Green,WE,92greensat23,,,92 Southside Loop Dart
+R92 Green,WE,92greensat24,,,92 Southside Loop Dart
+R92 Green,WE,92greensat25,,,92 Southside Loop Dart
+R92 Green,WE,92greensat26,,,92 Southside Loop Dart
+R92 Green,WE,92greensat27,,,92 Southside Loop Dart
+R92 Green,WE,92greensat28,,,92 Southside Loop Dart
+R92 Green,WE,92greensat29,,,92 Southside Loop Dart
+R92 Green,WE,92greensat30,,,92 Southside Loop Dart
+R92 Green,WE,92greensat31,,,92 Southside Loop Dart
+R92 Green,WE,92greensat32,,,92 Southside Loop Dart
+R92 Green,WE,92greensat33,,,92 Southside Loop Dart
+R92 Green,WE,92greensat34,,,92 Southside Loop Dart
+R92 Green,WE,92greensat35,,,92 Southside Loop Dart
+R92 Green,WE,92greensat36,,,92 Southside Loop Dart
+R92 Green,WE,92greensat37,,,92 Southside Loop Dart
+R92 Green,WE,92greensat38,,,92 Southside Loop Dart
+R92 Green,WE,92greensat39,,,92 Southside Loop Dart
+R92 Green,WE,92greensat40,,,92 Southside Loop Dart
+R92 Green,WE,92greensat41,,,92 Southside Loop Dart
+R92 Green,WE,92greensat42,,,92 Southside Loop Dart
+R92 Green,WE,92greensat43,,,92 Southside Loop Dart
+R92 Green,WE,92greensat44,,,92 Southside Loop Dart
+R92 Green,WE,92greensat45,,,92 Southside Loop Dart
+R92 Green,WE,92greensat46,,,92 Southside Loop Dart
+R92 Green,WE,92greensat47,,,92 Southside Loop Dart
+R92 Green,WE,92greensat48,,,92 Southside Loop Dart
+R95,WD,95 Westend out1,,,95
+R95,WD,95 Westend out2,,,95
+R95,WD,95 Westend out3,,,95
+R95,WD,95 Westend out4,,,95
+R95,WD,95 Westend out5,,,95
+R95,WD,95 Westend out6,,,95
+R95,WD,95 Westend out7,,,95
+R95,WD,95 Westend out8,,,95
+R95,WD,95 Westend out9,,,95
+R95,WD,95 Westend out10,,,95
+R95,WD,95 Westend out11,,,95
+R95,WD,95 Westend out12,,,95
+R95,WD,95 Westend out13,,,95
+R96,WD,96 Titusville out1,,,96 Titusville out
+R96,WD,96 Titusville out2,,,96 Titusville out
+R96,WD,96 Titusville out3,,,96 Titusville out
+R96,WD,96 Titusville out4,,,96 Titusville out
+R96,WD,96 Titusville out5,,,96 Titusville out
+R96,WD,96 Titusville out6,,,96 Titusville out
+R96,WD,96 Titusville out7,,,96 Titusville out
+R96,WD,96 Titusville out8,,,96 Titusville out
+R96,WD,96 Titusville out9,,,96 Titusville out
+R96,WD,96 Titusville out10,,,96 Titusville out
+R96,WD,96 Titusville out11,,,96 Titusville out
+R96,WD,96 Titusville out12,,,96 Titusville out
+R96,WD,96 Titusville out13,,,96 Titusville out
+R280,WD,Hwy2801,Inverness-Hoover,,280ob
+R280,WD,Hwy2801in,Central Station,,New280ib
+R280,WD,Hwy2802,Inverness-Hoover,,280ob
+R280,WD,Hwy2802in,Central Station,,New280ib
+R280,WD,Hwy2803,Inverness-Hoover,,280ob
+R280,WD,Hwy2803in,Central Station,,New280ib
+R280,WD,Hwy2804,Inverness-Hoover,,280ob
+R280,WD,Hwy2804in,Central Station,,New280ib
+R280,WD,Hwy2805,Inverness-Hoover,,280ob
+R280,WD,Hwy2805in,Central Station,,New280ib
+R280,WD,Hwy2806,Inverness-Hoover,,280ob
+R280,WD,Hwy2806in,Central Station,,New280ib
+R280,WD,Hwy2807,Inverness-Hoover,,280ob
+R280,WD,Hwy2807in,Central Station,,New280ib
+R280,WD,Hwy2808,Inverness-Hoover,,280ob
+R280,WD,Hwy2808in,Central Station,,New280ib
+R280,WD,Hwy2809,Chick-Fil-A,0,CFA
+R280,WD,Hwy28010,Inverness-Hoover,,280ob
+R280,WD,Hwy28010in,Central Station,,New280ib
+R280,WD,Hwy28011,Inverness-Hoover,,280ob
+R280,WD,Hwy28011in,Central Station,,New280ib
+R280,WD,Hwy28012,Inverness-Hoover,,280ob
+R280,WD,Hwy28012in,Central Station,,New280ib
+R280,WD,Hwy28013,Inverness-Hoover,,280ob
+R280,WD,Hwy28013in,Central Station,,New280ib
+R280,WD,Hwy28014,Inverness-Hoover,,280ob
+R280,WD,Hwy28014in,Central Station,,New280ib
+R280,WD,Hwy28015,Inverness-Hoover,,280ob
+R280,WD,Hwy28015in,Central Station,,New280ib
+R280,WD,Hwy28016,Inverness-Hoover,,280ob
+R280,WD,Hwy28016in,Central Station,,New280ib
+R280,WD,Hwy28017,Inverness-Hoover,,280ob
+R280,WD,Hwy28017in,Central Station,,New280ib
+R280,WE,280sat1,Inverness-Hoover,,280ob
+R280,WE,280sat1in,Central Station,,New280ib
+R280,WE,280sat2,Inverness-Hoover,,280ob
+R280,WE,280sat2in,Central Station,,New280ib
+R280,WE,280sat3,Inverness-Hoover,,280ob
+R280,WE,280sat3in,Central Station,,New280ib
+R280,WE,280sat4,Inverness-Hoover,,280ob
+R280,WE,280sat4in,Central Station,,New280ib
+R280,WE,280sat5,Inverness-Hoover,,280ob
+R280,WE,280sat5in,Central Station,,New280ib
+R280,WE,280sat6,Inverness-Hoover,,280ob
+R280,WE,280sat6in,Central Station,,New280ib
+R280,WE,280sat7,Inverness-Hoover,,280ob
+R280,WE,280sat7in,Central Station,,New280ib
+R280,WE,280sat8,Inverness-Hoover,,280ob
+R280,WE,280sat8in,Central Station,,New280ib

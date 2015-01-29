@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_phone,agency_lang
+BJCTA,Birmingham Jefferson County Transit Authority,http://www.bjcta.org,America/Chicago,(205) 521-0101,en
